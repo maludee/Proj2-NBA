@@ -5,13 +5,6 @@
 # Figure out how/when to close csv files when finished
 # Scrape wins and losses as separate function 
 
-## Notes
-# I was able to get the teamstats data by pulling everything out of the loop
-# But after I ran the whole thing only 2016 results are showing 
-# Were other years showing before?
-
-# If you want to figure out why something isn't working, run without "try" to see traceback
-# Also try running without for loop
 
 # Load Libraries
 import scrapy
@@ -85,21 +78,6 @@ class nbaref(scrapy.Spider):
             except:
                 continue     
 
-   # # Gets URLs for all of the team links from the initial league table FOR 2016
-   #  def team_links(self, response):
-   #      year = response.request.meta['season']
-   #      team_urls = response.xpath('//div[contains(@id, "all_confs_standings")]//tbody//tr')
-   #      #yr = response.request.meta['season']
-   #      for i in team_urls:
-   #          name = i.xpath('.//a/text()').extract()[0]
-   #          wins = i.xpath('.//td[@data-stat="wins"]/text()').extract()[0]
-   #          losses = i.xpath('.//td[@data-stat="losses"]/text()').extract()[0]
-   #          url_stub = i.xpath('.//a/@href').extract()[0]
-   #          url = 'http://www.basketball-reference.com'+ url_stub
-   #          print url
-   #          # yield scrapy.Request(url = url, callback = self.get_totals, meta = {'team':name,'season':year, 'wins':wins, 'losses':losses})
-   #          yield scrapy.Request(url = 'http://www.basketball-reference.com/teams/TOR/2013.html', callback = self.get_totals, meta = {'team':name, 'season':year, 'wins':wins, 'losses':losses})
- 
 
     # Gets actual player stats         
     def get_totals(self, response):
@@ -168,19 +146,6 @@ class nbaref(scrapy.Spider):
             team_list.append(teamstats)
         except:
             pass
-        # for i in self.driver.find_elements_by_xpath('//table[@id="team_and_opponent"]//tbody//tr'):
-        #     try:
-        #     games = i.find_element_by_xpath('.//td[@data-stat="g"]').text
-        #     tm3pct =  i.find_element_by_xpath('.//td[@data-stat="fg3_pct"]').text
-        #     tmfgallow = i.find_element_by_xpath('.//td[@data-stat="fga"]').text
-        #     opp3pct = i.find_element_by_xpath('.//td[@data-stat="opp_fg3_pct"]').text
-        #     oppfgpct = i.find_element_by_xpath('.//td[@data-stat="opp_fg_pct"]').text
-        #     oppfgall = i.find_element_by_xpath('.//td[@data-stat="opp_fga"]').text
-        #     # # create a tuple for each player's advanced stats, append to list
-        #     teamstats = (team, games, season, tm3pct, tmfgallow, opp3pct, oppfgpct, oppfgall)
-        #     team_list.append(teamstats)
-        #     except:
-        #         continue
 
         # Find misc table and loop through each row for team and opponent stats
         for i in self.driver.find_elements_by_xpath('//table[@id="team_misc"]//tbody//tr[@data-row="1"]'):
