@@ -14,59 +14,6 @@ Delon Wright,Toronto Raptors,2016,23,17.8
 Lucas Nogueira,Toronto Raptors,2016,23,15.6
 Anthony Bennett,Toronto Raptors,2016,22,10.4
 Bruno Caboclo,Toronto Raptors,2016,20,-7.7
-Evan Fournier,Orlando Magic,2016,23,14.6
-Victor Oladipo,Orlando Magic,2016,23,16.7
-Elfrid Payton,Orlando Magic,2016,21,13.9
-Nikola Vucevic,Orlando Magic,2016,25,21.1
-Aaron Gordon,Orlando Magic,2016,20,17.0
-Tobias Harris,Orlando Magic,2016,23,15.0
-Mario Hezonja,Orlando Magic,2016,20,9.4
-Jason Smith,Orlando Magic,2016,29,14.6
-Andrew Nicholson,Orlando Magic,2016,26,14.8
-Channing Frye,Orlando Magic,2016,32,11.8
-Dewayne Dedmon,Orlando Magic,2016,26,17.0
-C.J. Watson,Orlando Magic,2016,31,8.6
-Shabazz Napier,Orlando Magic,2016,24,9.6
-Brandon Jennings,Orlando Magic,2016,26,14.3
-Ersan Ilyasova,Orlando Magic,2016,28,14.7
-Devyn Marble,Orlando Magic,2016,23,5.2
-Keith Appling,Orlando Magic,2016,23,-4.8
-John Wall,Washington Wizards,2016,25,19.8
-Otto Porter,Washington Wizards,2016,22,14.5
-Marcin Gortat,Washington Wizards,2016,31,19.0
-Jared Dudley,Washington Wizards,2016,30,11.7
-Garrett Temple,Washington Wizards,2016,29,9.3
-Bradley Beal,Washington Wizards,2016,22,15.5
-Ramon Sessions,Washington Wizards,2016,29,15.9
-Nene Hilario,Washington Wizards,2016,33,16.8
-Gary Neal,Washington Wizards,2016,31,13.5
-Markieff Morris,Washington Wizards,2016,26,14.0
-Kelly Oubre,Washington Wizards,2016,20,8.2
-Kris Humphries,Washington Wizards,2016,30,11.8
-Drew Gooden,Washington Wizards,2016,34,7.5
-Marcus Thornton,Washington Wizards,2016,28,15.5
-DeJuan Blair,Washington Wizards,2016,26,5.4
-Alan Anderson,Washington Wizards,2016,33,9.2
-Jarell Eddie,Washington Wizards,2016,24,11.0
-J.J. Hickson,Washington Wizards,2016,27,18.9
-Ryan Hollins,Washington Wizards,2016,31,7.2
-Kemba Walker,Charlotte Hornets,2016,25,20.8
-Nicolas Batum,Charlotte Hornets,2016,27,15.6
-Marvin Williams,Charlotte Hornets,2016,29,16.8
-Jeremy Lin,Charlotte Hornets,2016,27,13.8
-Cody Zeller,Charlotte Hornets,2016,23,16.1
-Frank Kaminsky,Charlotte Hornets,2016,22,12.5
-Jeremy Lamb,Charlotte Hornets,2016,23,15.9
-Al Jefferson,Charlotte Hornets,2016,31,18.2
-Spencer Hawes,Charlotte Hornets,2016,27,12.4
-P.J. Hairston,Charlotte Hornets,2016,23,7.4
-Courtney Lee,Charlotte Hornets,2016,30,11.2
-Troy Daniels,Charlotte Hornets,2016,24,14.9
-Tyler Hansbrough,Charlotte Hornets,2016,30,12.5
-Brian Roberts,Charlotte Hornets,2016,30,13.9
-Michael Kidd-Gilchrist,Charlotte Hornets,2016,22,16.9
-Aaron Harrison,Charlotte Hornets,2016,21,4.3
-Jorge Gutierrez,Charlotte Hornets,2016,27,19.1
 Paul Millsap,Atlanta Hawks,2016,30,21.3
 Al Horford,Atlanta Hawks,2016,29,19.4
 Kyle Korver,Atlanta Hawks,2016,34,9.7
@@ -84,6 +31,25 @@ Justin Holiday,Atlanta Hawks,2016,26,4.7
 Shelvin Mack,Atlanta Hawks,2016,25,15.4
 Kirk Hinrich,Atlanta Hawks,2016,35,6.2
 Walter Tavares,Atlanta Hawks,2016,23,14.4
+Luol Deng,Miami Heat,2016,30,15.0
+Goran Dragic,Miami Heat,2016,29,15.5
+Dwyane Wade,Miami Heat,2016,34,20.3
+Justise Winslow,Miami Heat,2016,19,8.4
+Hassan Whiteside,Miami Heat,2016,26,25.7
+Chris Bosh,Miami Heat,2016,31,20.2
+Gerald Green,Miami Heat,2016,30,10.1
+Josh Richardson,Miami Heat,2016,22,11.4
+Tyler Johnson,Miami Heat,2016,23,13.8
+Joe Johnson,Miami Heat,2016,34,15.2
+Amar'e Stoudemire,Miami Heat,2016,33,17.3
+Josh McRoberts,Miami Heat,2016,28,9.9
+Beno Udrih,Miami Heat,2016,33,8.9
+Udonis Haslem,Miami Heat,2016,35,9.1
+Mario Chalmers,Miami Heat,2016,29,9.5
+Chris Andersen,Miami Heat,2016,37,17.6
+Jarnell Stokes,Miami Heat,2016,22,21.8
+James Ennis,Miami Heat,2016,25,2.4
+Briante Weber,Miami Heat,2016,23,39.3
 Khris Middleton,Milwaukee Bucks,2016,24,16.8
 Giannis Antetokounmpo,Milwaukee Bucks,2016,21,18.8
 Jabari Parker,Milwaukee Bucks,2016,20,14.8
@@ -134,40 +100,6 @@ Spencer Dinwiddie,Detroit Pistons,2016,22,8.9
 Joel Anthony,Detroit Pistons,2016,33,14.1
 Jodie Meeks,Detroit Pistons,2016,28,13.5
 Justin Harper,Detroit Pistons,2016,26,6.9
-Paul George,Indiana Pacers,2016,25,20.9
-Monta Ellis,Indiana Pacers,2016,30,13.7
-George Hill,Indiana Pacers,2016,29,13.2
-Ian Mahinmi,Indiana Pacers,2016,29,16.6
-Lavoy Allen,Indiana Pacers,2016,26,12.4
-Jordan Hill,Indiana Pacers,2016,28,16.4
-C.J. Miles,Indiana Pacers,2016,28,14.0
-Myles Turner,Indiana Pacers,2016,19,15.4
-Rodney Stuckey,Indiana Pacers,2016,29,12.6
-Solomon Hill,Indiana Pacers,2016,24,12.2
-Chase Budinger,Indiana Pacers,2016,27,11.1
-Glenn Robinson,Indiana Pacers,2016,22,11.4
-Joe Young,Indiana Pacers,2016,23,9.9
-Ty Lawson,Indiana Pacers,2016,28,13.7
-Shayne Whittington,Indiana Pacers,2016,24,7.4
-Rakeem Christmas,Indiana Pacers,2016,24,32.0
-LeBron James,Cleveland Cavaliers,2016,31,27.5
-Kevin Love,Cleveland Cavaliers,2016,27,19.0
-J.R. Smith,Cleveland Cavaliers,2016,30,12.4
-Tristan Thompson,Cleveland Cavaliers,2016,24,15.9
-Matthew Dellavedova,Cleveland Cavaliers,2016,25,11.3
-Kyrie Irving,Cleveland Cavaliers,2016,23,19.9
-Timofey Mozgov,Cleveland Cavaliers,2016,29,14.6
-Richard Jefferson,Cleveland Cavaliers,2016,35,9.7
-Iman Shumpert,Cleveland Cavaliers,2016,25,8.4
-Mo Williams,Cleveland Cavaliers,2016,33,12.4
-James Jones,Cleveland Cavaliers,2016,35,11.6
-Channing Frye,Cleveland Cavaliers,2016,32,14.9
-Jared Cunningham,Cleveland Cavaliers,2016,24,5.9
-Anderson Varejao,Cleveland Cavaliers,2016,33,11.2
-Jordan McRae,Cleveland Cavaliers,2016,24,14.2
-Sasha Kaun,Cleveland Cavaliers,2016,30,12.5
-Dahntay Jones,Cleveland Cavaliers,2016,35,10.3
-Joe Harris,Cleveland Cavaliers,2016,24,3.4
 Anthony Davis,New Orleans Pelicans,2016,22,25.0
 Ryan Anderson,New Orleans Pelicans,2016,27,17.2
 Dante Cunningham,New Orleans Pelicans,2016,28,8.6
@@ -292,6 +224,2559 @@ Jermaine Taylor,Houston Rockets,2011,24,13.3
 Mike Harris,Houston Rockets,2011,27,17.9
 DeMarre Carroll,Houston Rockets,2011,24,-4.5
 Hasheem Thabeet,Houston Rockets,2011,23,-13.6
+David West,New Orleans Hornets,2010,29,18.9
+Emeka Okafor,New Orleans Hornets,2010,27,16.5
+Darren Collison,New Orleans Hornets,2010,22,16.5
+Peja Stojakovic,New Orleans Hornets,2010,32,12.4
+Marcus Thornton,New Orleans Hornets,2010,22,17.4
+James Posey,New Orleans Hornets,2010,33,8.7
+Chris Paul,New Orleans Hornets,2010,24,23.7
+Darius Songaila,New Orleans Hornets,2010,31,11.6
+Morris Peterson,New Orleans Hornets,2010,32,9.3
+Devin Brown,New Orleans Hornets,2010,31,10.9
+Julian Wright,New Orleans Hornets,2010,22,11.8
+Bobby Brown,New Orleans Hornets,2010,25,10.0
+Aaron Gray,New Orleans Hornets,2010,25,18.4
+Hilton Armstrong,New Orleans Hornets,2010,25,7.5
+Sean Marks,New Orleans Hornets,2010,34,9.0
+Jason Hart,New Orleans Hornets,2010,31,8.5
+O.J. Mayo,Memphis Grizzlies,2009,21,14.2
+Rudy Gay,Memphis Grizzlies,2009,22,15.3
+Marc Gasol,Memphis Grizzlies,2009,24,16.7
+Mike Conley,Memphis Grizzlies,2009,21,14.3
+Hakim Warrick,Memphis Grizzlies,2009,26,16.9
+Darrell Arthur,Memphis Grizzlies,2009,20,11.3
+Quinton Ross,Memphis Grizzlies,2009,27,6.9
+Kyle Lowry,Memphis Grizzlies,2009,22,14.1
+Darko Milicic,Memphis Grizzlies,2009,23,13.8
+Greg Buckner,Memphis Grizzlies,2009,32,6.3
+Marko Jaric,Memphis Grizzlies,2009,30,7.3
+Darius Miles,Memphis Grizzlies,2009,27,16.1
+Hamed Haddadi,Memphis Grizzlies,2009,23,19.7
+Javaris Crittenton,Memphis Grizzlies,2009,21,13.2
+Adonal Foyle,Memphis Grizzlies,2009,33,-6.3
+Rudy Gay,Memphis Grizzlies,2008,21,17.4
+Mike Miller,Memphis Grizzlies,2008,27,16.1
+Juan Carlos Navarro,Memphis Grizzlies,2008,27,11.9
+Kyle Lowry,Memphis Grizzlies,2008,21,14.3
+Hakim Warrick,Memphis Grizzlies,2008,25,16.2
+Darko Milicic,Memphis Grizzlies,2008,22,11.0
+Pau Gasol,Memphis Grizzlies,2008,27,20.1
+Mike Conley,Memphis Grizzlies,2008,20,12.6
+Damon Stoudamire,Memphis Grizzlies,2008,34,11.8
+Stromile Swift,Memphis Grizzlies,2008,28,15.9
+Casey Jacobsen,Memphis Grizzlies,2008,26,4.5
+Javaris Crittenton,Memphis Grizzlies,2008,20,11.0
+Jason Collins,Memphis Grizzlies,2008,29,5.4
+Brian Cardinal,Memphis Grizzlies,2008,30,7.3
+Andre Brown,Memphis Grizzlies,2008,26,13.5
+Kwame Brown,Memphis Grizzlies,2008,25,11.1
+Bobby Jones,Memphis Grizzlies,2008,24,12.1
+Tarence Kinsey,Memphis Grizzlies,2008,23,10.3
+Jeremy Richardson,Memphis Grizzlies,2008,23,-18.1
+Mike Miller,Memphis Grizzlies,2007,26,16.4
+Hakim Warrick,Memphis Grizzlies,2007,24,15.9
+Pau Gasol,Memphis Grizzlies,2007,26,24.1
+Rudy Gay,Memphis Grizzlies,2007,20,12.4
+Chucky Atkins,Memphis Grizzlies,2007,32,17.4
+Dahntay Jones,Memphis Grizzlies,2007,26,9.6
+Damon Stoudamire,Memphis Grizzlies,2007,33,12.6
+Stromile Swift,Memphis Grizzlies,2007,27,14.2
+Lawrence Roberts,Memphis Grizzlies,2007,24,13.4
+Tarence Kinsey,Memphis Grizzlies,2007,22,13.0
+Alexander Johnson,Memphis Grizzlies,2007,23,13.2
+Eddie Jones,Memphis Grizzlies,2007,35,8.6
+Junior Harrington,Memphis Grizzlies,2007,26,8.9
+Brian Cardinal,Memphis Grizzlies,2007,29,17.7
+Jake Tsakalidis,Memphis Grizzlies,2007,27,6.5
+Kyle Lowry,Memphis Grizzlies,2007,20,18.3
+Scott Padgett,Memphis Grizzlies,2007,30,0.9
+Will Conroy,Memphis Grizzlies,2007,24,4.2
+Juwan Howard,Houston Rockets,2006,32,12.5
+Rafer Alston,Houston Rockets,2006,29,12.6
+David Wesley,Houston Rockets,2006,35,9.6
+Luther Head,Houston Rockets,2006,23,11.2
+Yao Ming,Houston Rockets,2006,25,25.6
+Tracy McGrady,Houston Rockets,2006,26,21.9
+Stromile Swift,Houston Rockets,2006,26,14.6
+Keith Bogans,Houston Rockets,2006,25,9.3
+Dikembe Mutombo,Houston Rockets,2006,39,12.7
+Ryan Bowen,Houston Rockets,2006,30,4.0
+Derek Anderson,Houston Rockets,2006,31,12.5
+Chuck Hayes,Houston Rockets,2006,22,18.0
+Jon Barry,Houston Rockets,2006,36,8.5
+Lonny Baxter,Houston Rockets,2006,27,13.1
+Moochie Norris,Houston Rockets,2006,32,10.4
+Rick Brunson,Houston Rockets,2006,33,6.1
+Richie Frahm,Houston Rockets,2006,28,10.4
+John Lucas III,Houston Rockets,2006,23,7.7
+Stephen Graham,Houston Rockets,2006,23,9.7
+Maciej Lampe,Houston Rockets,2006,20,-2.1
+Josh Davis,Houston Rockets,2006,25,
+Chris Paul,New Orleans/Oklahoma City Hornets,2006,20,22.1
+David West,New Orleans/Oklahoma City Hornets,2006,25,19.7
+P.J. Brown,New Orleans/Oklahoma City Hornets,2006,36,12.7
+Desmond Mason,New Orleans/Oklahoma City Hornets,2006,28,9.2
+Speedy Claxton,New Orleans/Oklahoma City Hornets,2006,27,16.1
+Rasual Butler,New Orleans/Oklahoma City Hornets,2006,26,10.8
+Kirk Snyder,New Orleans/Oklahoma City Hornets,2006,22,14.6
+J.R. Smith,New Orleans/Oklahoma City Hornets,2006,20,12.7
+Aaron Williams,New Orleans/Oklahoma City Hornets,2006,34,12.2
+Marc Jackson,New Orleans/Oklahoma City Hornets,2006,31,13.9
+Chris Andersen,New Orleans/Oklahoma City Hornets,2006,27,14.1
+Linton Johnson,New Orleans/Oklahoma City Hornets,2006,25,10.5
+Jackson Vroman,New Orleans/Oklahoma City Hornets,2006,24,5.9
+Bostjan Nachbar,New Orleans/Oklahoma City Hornets,2006,25,7.3
+Brandon Bass,New Orleans/Oklahoma City Hornets,2006,20,9.1
+Moochie Norris,New Orleans/Oklahoma City Hornets,2006,32,9.6
+Arvydas Macijauskas,New Orleans/Oklahoma City Hornets,2006,26,8.3
+Marcus Fizer,New Orleans/Oklahoma City Hornets,2006,27,14.1
+Maciej Lampe,New Orleans/Oklahoma City Hornets,2006,20,-6.1
+Pau Gasol,Memphis Grizzlies,2006,25,22.7
+Shane Battier,Memphis Grizzlies,2006,27,14.7
+Eddie Jones,Memphis Grizzlies,2006,34,14.7
+Mike Miller,Memphis Grizzlies,2006,25,17.2
+Bobby Jackson,Memphis Grizzlies,2006,32,14.6
+Lorenzen Wright,Memphis Grizzlies,2006,30,12.2
+Chucky Atkins,Memphis Grizzlies,2006,31,14.1
+Dahntay Jones,Memphis Grizzlies,2006,25,8.0
+Damon Stoudamire,Memphis Grizzlies,2006,32,13.7
+Jake Tsakalidis,Memphis Grizzlies,2006,26,17.3
+Hakim Warrick,Memphis Grizzlies,2006,23,11.0
+Antonio Burks,Memphis Grizzlies,2006,25,5.1
+Brian Cardinal,Memphis Grizzlies,2006,28,10.0
+Lawrence Roberts,Memphis Grizzlies,2006,23,13.8
+Anthony Roberson,Memphis Grizzlies,2006,22,11.7
+John Thomas,Memphis Grizzlies,2006,30,3.8
+Dirk Nowitzki,Dallas Mavericks,2006,27,28.1
+Jason Terry,Dallas Mavericks,2006,28,18.4
+Erick Dampier,Dallas Mavericks,2006,30,13.9
+Josh Howard,Dallas Mavericks,2006,25,19.3
+Marquis Daniels,Dallas Mavericks,2006,25,14.9
+Jerry Stackhouse,Dallas Mavericks,2006,31,14.5
+DeSagana Diop,Dallas Mavericks,2006,24,11.5
+Devin Harris,Dallas Mavericks,2006,22,17.4
+Adrian Griffin,Dallas Mavericks,2006,31,11.6
+Keith Van Horn,Dallas Mavericks,2006,30,13.8
+Darrell Armstrong,Dallas Mavericks,2006,37,7.3
+Josh Powell,Dallas Mavericks,2006,23,9.2
+Rawle Marshall,Dallas Mavericks,2006,23,10.1
+Didier Ilunga-Mbenga,Dallas Mavericks,2006,25,13.4
+Doug Christie,Dallas Mavericks,2006,35,6.8
+Pavel Podkolzin,Dallas Mavericks,2006,21,2.3
+Tim Duncan,San Antonio Spurs,2006,29,23.1
+Bruce Bowen,San Antonio Spurs,2006,34,9.1
+Tony Parker,San Antonio Spurs,2006,23,20.8
+Michael Finley,San Antonio Spurs,2006,32,12.7
+Manu Ginobili,San Antonio Spurs,2006,28,22.4
+Rasho Nesterovic,San Antonio Spurs,2006,29,11.0
+Nazr Mohammed,San Antonio Spurs,2006,28,15.0
+Brent Barry,San Antonio Spurs,2006,34,14.8
+Robert Horry,San Antonio Spurs,2006,35,13.5
+Nick Van Exel,San Antonio Spurs,2006,34,11.0
+Beno Udrih,San Antonio Spurs,2006,23,15.3
+Fabricio Oberto,San Antonio Spurs,2006,30,9.3
+Sean Marks,San Antonio Spurs,2006,30,17.9
+Melvin Sanders,San Antonio Spurs,2006,25,10.5
+Alex Scales,San Antonio Spurs,2006,27,
+Jason Richardson,Golden State Warriors,2006,25,19.2
+Derek Fisher,Golden State Warriors,2006,31,14.8
+Mike Dunleavy,Golden State Warriors,2006,25,12.5
+Troy Murphy,Golden State Warriors,2006,25,15.9
+Baron Davis,Golden State Warriors,2006,26,18.3
+Adonal Foyle,Golden State Warriors,2006,30,10.3
+Mickael Pietrus,Golden State Warriors,2006,23,10.0
+Ike Diogu,Golden State Warriors,2006,22,15.8
+Andris Biedrins,Golden State Warriors,2006,19,13.6
+Monta Ellis,Golden State Warriors,2006,20,11.1
+Zarko Cabarkapa,Golden State Warriors,2006,24,9.9
+Calbert Cheaney,Golden State Warriors,2006,34,6.0
+Will Bynum,Golden State Warriors,2006,23,8.7
+Chris Taft,Golden State Warriors,2006,20,15.6
+Aaron Miles,Golden State Warriors,2006,22,6.0
+Mike Bibby,Sacramento Kings,2006,27,17.9
+Brad Miller,Sacramento Kings,2006,29,17.5
+Kenny Thomas,Sacramento Kings,2006,28,15.0
+Shareef Abdur-Rahim,Sacramento Kings,2006,29,17.2
+Kevin Martin,Sacramento Kings,2006,22,14.8
+Bonzi Wells,Sacramento Kings,2006,29,16.6
+Metta World Peace,Sacramento Kings,2006,26,14.1
+Francisco Garcia,Sacramento Kings,2006,24,10.3
+Peja Stojakovic,Sacramento Kings,2006,28,13.6
+Jason Hart,Sacramento Kings,2006,27,7.1
+Brian Skinner,Sacramento Kings,2006,29,10.8
+Corliss Williamson,Sacramento Kings,2006,32,8.1
+Ronnie Price,Sacramento Kings,2006,22,10.5
+Jamal Sampson,Sacramento Kings,2006,22,24.4
+Vitaly Potapenko,Sacramento Kings,2006,30,8.2
+Sergei Monia,Sacramento Kings,2006,22,12.1
+Kobe Bryant,Los Angeles Lakers,2006,27,28.0
+Lamar Odom,Los Angeles Lakers,2006,26,17.0
+Smush Parker,Los Angeles Lakers,2006,24,13.4
+Kwame Brown,Los Angeles Lakers,2006,23,11.7
+Devean George,Los Angeles Lakers,2006,28,11.3
+Chris Mihm,Los Angeles Lakers,2006,26,15.3
+Brian Cook,Los Angeles Lakers,2006,25,15.6
+Sasha Vujacic,Los Angeles Lakers,2006,21,8.4
+Luke Walton,Los Angeles Lakers,2006,25,11.6
+Andrew Bynum,Los Angeles Lakers,2006,18,7.4
+Laron Profit,Los Angeles Lakers,2006,28,11.8
+Ronny Turiaf,Los Angeles Lakers,2006,23,12.2
+Devin Green,Los Angeles Lakers,2006,23,4.7
+Aaron McKie,Los Angeles Lakers,2006,33,6.1
+Jim Jackson,Los Angeles Lakers,2006,35,2.1
+Von Wafer,Los Angeles Lakers,2006,20,-1.6
+Stanislav Medvedenko,Los Angeles Lakers,2006,26,11.0
+Elton Brand,Los Angeles Clippers,2006,26,26.5
+Cuttino Mobley,Los Angeles Clippers,2006,30,13.1
+Sam Cassell,Los Angeles Clippers,2006,36,18.5
+Chris Kaman,Los Angeles Clippers,2006,23,15.0
+Shaun Livingston,Los Angeles Clippers,2006,20,10.2
+Quinton Ross,Los Angeles Clippers,2006,24,7.4
+Daniel Ewing,Los Angeles Clippers,2006,22,7.6
+Corey Maggette,Los Angeles Clippers,2006,26,18.9
+Vladimir Radmanovic,Los Angeles Clippers,2006,25,14.2
+James Singleton,Los Angeles Clippers,2006,24,13.6
+Chris Wilcox,Los Angeles Clippers,2006,23,13.2
+Zeljko Rebraca,Los Angeles Clippers,2006,33,10.7
+Walter McCarty,Los Angeles Clippers,2006,31,5.9
+Boniface N'Dong,Los Angeles Clippers,2006,28,11.0
+Yaroslav Korolev,Los Angeles Clippers,2006,18,4.8
+Howard Eisley,Los Angeles Clippers,2006,33,7.2
+Vin Baker,Los Angeles Clippers,2006,34,11.2
+Anthony Goldwire,Los Angeles Clippers,2006,34,-5.5
+Shawn Marion,Phoenix Suns,2006,27,23.6
+Raja Bell,Phoenix Suns,2006,29,12.9
+Boris Diaw,Phoenix Suns,2006,23,17.3
+Steve Nash,Phoenix Suns,2006,31,23.3
+James Jones,Phoenix Suns,2006,25,13.2
+Leandro Barbosa,Phoenix Suns,2006,23,15.1
+Eddie House,Phoenix Suns,2006,27,15.2
+Kurt Thomas,Phoenix Suns,2006,33,13.1
+Tim Thomas,Phoenix Suns,2006,28,12.4
+Jim Jackson,Phoenix Suns,2006,35,3.2
+Pat Burke,Phoenix Suns,2006,32,9.9
+Brian Grant,Phoenix Suns,2006,33,6.6
+Nikoloz Tskitishvili,Phoenix Suns,2006,22,10.6
+Amar'e Stoudemire,Phoenix Suns,2006,23,17.8
+Dijon Thompson,Phoenix Suns,2006,22,22.0
+Andre Barrett,Phoenix Suns,2006,23,14.1
+Sharrod Ford,Phoenix Suns,2006,24,0.6
+Josh Davis,Phoenix Suns,2006,25,33.7
+Zach Randolph,Portland Trail Blazers,2006,24,16.9
+Juan Dixon,Portland Trail Blazers,2006,27,14.6
+Steve Blake,Portland Trail Blazers,2006,25,14.5
+Sebastian Telfair,Portland Trail Blazers,2006,20,13.0
+Jarrett Jack,Portland Trail Blazers,2006,22,12.3
+Viktor Khryapa,Portland Trail Blazers,2006,23,11.5
+Joel Przybilla,Portland Trail Blazers,2006,26,15.3
+Theo Ratliff,Portland Trail Blazers,2006,32,12.2
+Darius Miles,Portland Trail Blazers,2006,24,12.5
+Travis Outlaw,Portland Trail Blazers,2006,21,12.9
+Martell Webster,Portland Trail Blazers,2006,19,11.6
+Ruben Patterson,Portland Trail Blazers,2006,30,17.0
+Brian Skinner,Portland Trail Blazers,2006,29,10.3
+Sergei Monia,Portland Trail Blazers,2006,22,6.2
+Voshon Lenard,Portland Trail Blazers,2006,32,11.8
+Ha Seung-Jin,Portland Trail Blazers,2006,20,6.9
+Charles Smith,Portland Trail Blazers,2006,30,12.4
+Kevin Garnett,Minnesota Timberwolves,2006,29,26.8
+Trenton Hassell,Minnesota Timberwolves,2006,26,9.5
+Marko Jaric,Minnesota Timberwolves,2006,27,11.7
+Wally Szczerbiak,Minnesota Timberwolves,2006,28,18.1
+Ricky Davis,Minnesota Timberwolves,2006,26,15.2
+Rashad McCants,Minnesota Timberwolves,2006,21,12.6
+Eddie Griffin,Minnesota Timberwolves,2006,23,12.2
+Marcus Banks,Minnesota Timberwolves,2006,24,14.5
+Mark Blount,Minnesota Timberwolves,2006,30,12.1
+Troy Hudson,Minnesota Timberwolves,2006,29,12.2
+Michael Olowokandi,Minnesota Timberwolves,2006,30,8.6
+Justin Reed,Minnesota Timberwolves,2006,24,9.8
+Mark Madsen,Minnesota Timberwolves,2006,30,5.3
+Anthony Carter,Minnesota Timberwolves,2006,30,10.6
+Ronald Dupree,Minnesota Timberwolves,2006,25,10.4
+Richie Frahm,Minnesota Timberwolves,2006,28,8.9
+Bracey Wright,Minnesota Timberwolves,2006,21,12.1
+Nikoloz Tskitishvili,Minnesota Timberwolves,2006,22,-6.7
+Ray Allen,Seattle SuperSonics,2006,30,22.2
+Rashard Lewis,Seattle SuperSonics,2006,26,20.0
+Luke Ridnour,Seattle SuperSonics,2006,24,16.0
+Damien Wilkins,Seattle SuperSonics,2006,26,13.1
+Nick Collison,Seattle SuperSonics,2006,25,14.0
+Johan Petro,Seattle SuperSonics,2006,20,10.4
+Vladimir Radmanovic,Seattle SuperSonics,2006,25,13.1
+Ronald Murray,Seattle SuperSonics,2006,26,11.2
+Robert Swift,Seattle SuperSonics,2006,20,12.7
+Chris Wilcox,Seattle SuperSonics,2006,23,20.4
+Reggie Evans,Seattle SuperSonics,2006,25,15.0
+Earl Watson,Seattle SuperSonics,2006,26,17.3
+Mikki Moore,Seattle SuperSonics,2006,30,8.6
+Vitaly Potapenko,Seattle SuperSonics,2006,30,7.4
+Danny Fortson,Seattle SuperSonics,2006,29,8.5
+Mateen Cleaves,Seattle SuperSonics,2006,28,9.1
+Mike Wilks,Seattle SuperSonics,2006,26,14.6
+Noel Felix,Seattle SuperSonics,2006,24,-1.1
+Rick Brunson,Seattle SuperSonics,2006,33,7.8
+Mehmet Okur,Utah Jazz,2006,26,19.0
+Andrei Kirilenko,Utah Jazz,2006,24,20.7
+Deron Williams,Utah Jazz,2006,21,12.4
+Matt Harpring,Utah Jazz,2006,29,16.3
+Jarron Collins,Utah Jazz,2006,27,11.0
+Devin Brown,Utah Jazz,2006,27,10.3
+Milt Palacio,Utah Jazz,2006,27,9.9
+Keith McLeod,Utah Jazz,2006,26,8.6
+Carlos Boozer,Utah Jazz,2006,24,21.4
+Gordan Giricek,Utah Jazz,2006,28,8.7
+Greg Ostertag,Utah Jazz,2006,32,11.6
+Kris Humphries,Utah Jazz,2006,20,10.3
+Robert Whaley,Utah Jazz,2006,23,7.6
+Andre Owens,Utah Jazz,2006,25,5.2
+C.J. Miles,Utah Jazz,2006,18,13.8
+Carmelo Anthony,Denver Nuggets,2006,21,22.0
+Andre Miller,Denver Nuggets,2006,29,16.4
+Marcus Camby,Denver Nuggets,2006,31,19.9
+Greg Buckner,Denver Nuggets,2006,29,11.4
+Francisco Elson,Denver Nuggets,2006,29,10.1
+Kenyon Martin,Denver Nuggets,2006,28,16.7
+Earl Boykins,Denver Nuggets,2006,29,15.7
+Eduardo Najera,Denver Nuggets,2006,29,10.9
+Earl Watson,Denver Nuggets,2006,26,12.8
+DerMarr Johnson,Denver Nuggets,2006,25,11.7
+Ruben Patterson,Denver Nuggets,2006,30,15.4
+Reggie Evans,Denver Nuggets,2006,25,9.2
+Linas Kleiza,Denver Nuggets,2006,21,13.2
+Howard Eisley,Denver Nuggets,2006,33,10.0
+Voshon Lenard,Denver Nuggets,2006,32,10.1
+Julius Hodge,Denver Nuggets,2006,22,4.2
+Nene Hilario,Denver Nuggets,2006,23,-54.4
+Bryon Russell,Denver Nuggets,2006,35,16.4
+Charles Smith,Denver Nuggets,2006,30,-28.1
+Joe Johnson,Atlanta Hawks,2006,24,17.9
+Al Harrington,Atlanta Hawks,2006,25,16.0
+Josh Smith,Atlanta Hawks,2006,20,15.5
+Zaza Pachulia,Atlanta Hawks,2006,21,15.0
+Josh Childress,Atlanta Hawks,2006,22,15.8
+Marvin Williams,Atlanta Hawks,2006,19,12.2
+Salim Stoudamire,Atlanta Hawks,2006,23,12.5
+Tyronn Lue,Atlanta Hawks,2006,28,15.5
+Royal Ivey,Atlanta Hawks,2006,24,8.4
+Esteban Batista,Atlanta Hawks,2006,22,7.1
+John Edwards,Atlanta Hawks,2006,24,6.4
+Donta Smith,Atlanta Hawks,2006,22,12.7
+Anthony Grundy,Atlanta Hawks,2006,26,16.6
+John Thomas,Atlanta Hawks,2006,30,3.1
+Tony Delk,Atlanta Hawks,2006,32,16.1
+Raymond Felton,Charlotte Bobcats,2006,21,14.2
+Brevin Knight,Charlotte Bobcats,2006,30,17.3
+Primoz Brezec,Charlotte Bobcats,2006,26,15.3
+Jumaine Jones,Charlotte Bobcats,2006,26,12.1
+Gerald Wallace,Charlotte Bobcats,2006,23,21.3
+Melvin Ely,Charlotte Bobcats,2006,27,14.3
+Bernard Robinson,Charlotte Bobcats,2006,25,12.0
+Matt Carroll,Charlotte Bobcats,2006,25,13.9
+Kareem Rush,Charlotte Bobcats,2006,25,9.8
+Emeka Okafor,Charlotte Bobcats,2006,23,14.9
+Keith Bogans,Charlotte Bobcats,2006,25,12.4
+Jake Voskuhl,Charlotte Bobcats,2006,28,11.0
+Alan Anderson,Charlotte Bobcats,2006,23,10.4
+Sean May,Charlotte Bobcats,2006,21,15.3
+Kevin Burleson,Charlotte Bobcats,2006,26,5.1
+Lonny Baxter,Charlotte Bobcats,2006,27,9.2
+Dwight Howard,Orlando Magic,2006,20,19.3
+DeShawn Stevenson,Orlando Magic,2006,24,10.9
+Hedo Turkoglu,Orlando Magic,2006,26,16.7
+Tony Battie,Orlando Magic,2006,29,12.2
+Jameer Nelson,Orlando Magic,2006,23,19.5
+Steve Francis,Orlando Magic,2006,28,15.9
+Keyon Dooling,Orlando Magic,2006,25,12.6
+Pat Garrity,Orlando Magic,2006,29,9.1
+Darko Milicic,Orlando Magic,2006,20,16.3
+Grant Hill,Orlando Magic,2006,33,19.0
+Carlos Arroyo,Orlando Magic,2006,26,18.8
+Stacey Augmon,Orlando Magic,2006,37,7.6
+Bo Outlaw,Orlando Magic,2006,34,11.8
+Kelvin Cato,Orlando Magic,2006,31,9.4
+Trevor Ariza,Orlando Magic,2006,20,15.8
+Travis Diener,Orlando Magic,2006,23,12.6
+Mario Kasun,Orlando Magic,2006,25,8.9
+Terence Morris,Orlando Magic,2006,27,5.1
+Gilbert Arenas,Washington Wizards,2006,24,23.8
+Antawn Jamison,Washington Wizards,2006,29,17.7
+Caron Butler,Washington Wizards,2006,25,17.0
+Antonio Daniels,Washington Wizards,2006,30,13.7
+Jared Jeffries,Washington Wizards,2006,24,11.6
+Brendan Haywood,Washington Wizards,2006,26,13.8
+Etan Thomas,Washington Wizards,2006,27,13.6
+Michael Ruffin,Washington Wizards,2006,29,8.1
+Chucky Atkins,Washington Wizards,2006,31,10.4
+Jarvis Hayes,Washington Wizards,2006,24,12.2
+Donell Taylor,Washington Wizards,2006,23,10.1
+Calvin Booth,Washington Wizards,2006,29,8.9
+Andray Blatche,Washington Wizards,2006,19,10.1
+Billy Thomas,Washington Wizards,2006,30,9.8
+Awvee Storey,Washington Wizards,2006,28,9.2
+Dwyane Wade,Miami Heat,2006,24,27.6
+Udonis Haslem,Miami Heat,2006,25,13.7
+Gary Payton,Miami Heat,2006,37,10.7
+Antoine Walker,Miami Heat,2006,29,14.4
+James Posey,Miami Heat,2006,29,9.8
+Jason Williams,Miami Heat,2006,30,15.0
+Shaquille O'Neal,Miami Heat,2006,33,24.4
+Alonzo Mourning,Miami Heat,2006,35,19.4
+Jason Kapono,Miami Heat,2006,24,9.0
+Shandon Anderson,Miami Heat,2006,32,6.2
+Derek Anderson,Miami Heat,2006,31,8.7
+Wayne Simien,Miami Heat,2006,22,11.5
+Michael Doleac,Miami Heat,2006,28,9.9
+Gerald Fitch,Miami Heat,2006,23,10.2
+Dorell Wright,Miami Heat,2006,20,13.2
+Earl Barron,Miami Heat,2006,24,-2.8
+Matt Walsh,Miami Heat,2006,23,-2.4
+Michael Redd,Milwaukee Bucks,2006,26,21.2
+T.J. Ford,Milwaukee Bucks,2006,22,13.1
+Bobby Simmons,Milwaukee Bucks,2006,25,13.8
+Jamaal Magloire,Milwaukee Bucks,2006,27,11.1
+Andrew Bogut,Milwaukee Bucks,2006,21,15.2
+Mo Williams,Milwaukee Bucks,2006,23,15.0
+Charlie Bell,Milwaukee Bucks,2006,26,14.7
+Toni Kukoc,Milwaukee Bucks,2006,37,11.9
+Joe Smith,Milwaukee Bucks,2006,30,16.1
+Dan Gadzuric,Milwaukee Bucks,2006,27,17.2
+Jiri Welsch,Milwaukee Bucks,2006,26,9.8
+Jermaine Jackson,Milwaukee Bucks,2006,29,8.2
+Ervin Johnson,Milwaukee Bucks,2006,38,3.1
+Reece Gaines,Milwaukee Bucks,2006,25,6.7
+Josh Davis,Milwaukee Bucks,2006,25,5.2
+Kirk Hinrich,Chicago Bulls,2006,25,15.5
+Luol Deng,Chicago Bulls,2006,20,15.8
+Ben Gordon,Chicago Bulls,2006,22,14.5
+Andres Nocioni,Chicago Bulls,2006,26,16.1
+Chris Duhon,Chicago Bulls,2006,23,12.9
+Tyson Chandler,Chicago Bulls,2006,23,12.2
+Darius Songaila,Chicago Bulls,2006,27,13.6
+Mike Sweetney,Chicago Bulls,2006,23,13.9
+Othella Harrington,Chicago Bulls,2006,32,11.1
+Malik Allen,Chicago Bulls,2006,27,11.5
+Jannero Pargo,Chicago Bulls,2006,26,9.9
+Eric Piatkowski,Chicago Bulls,2006,35,6.2
+Luke Schenscher,Chicago Bulls,2006,23,9.3
+Eddie Basden,Chicago Bulls,2006,22,10.3
+Tim Thomas,Chicago Bulls,2006,28,8.5
+James Thomas,Chicago Bulls,2006,25,11.7
+Randy Livingston,Chicago Bulls,2006,30,-3.0
+Stephen Graham,Chicago Bulls,2006,23,2.4
+Randy Holcomb,Chicago Bulls,2006,26,8.2
+Stephen Jackson,Indiana Pacers,2006,27,13.6
+Anthony Johnson,Indiana Pacers,2006,31,14.2
+Fred Jones,Indiana Pacers,2006,26,11.0
+Jermaine O'Neal,Indiana Pacers,2006,27,20.4
+Danny Granger,Indiana Pacers,2006,22,14.7
+Jeff Foster,Indiana Pacers,2006,29,15.1
+Sarunas Jasikevicius,Indiana Pacers,2006,29,12.9
+Peja Stojakovic,Indiana Pacers,2006,28,19.1
+Austin Croshere,Indiana Pacers,2006,30,15.2
+Jamaal Tinsley,Indiana Pacers,2006,27,12.1
+David Harrison,Indiana Pacers,2006,23,11.8
+Scot Pollard,Indiana Pacers,2006,30,12.3
+Metta World Peace,Indiana Pacers,2006,26,18.1
+Eddie Gill,Indiana Pacers,2006,27,9.9
+Samaki Walker,Indiana Pacers,2006,29,-6.2
+Jonathan Bender,Indiana Pacers,2006,25,26.4
+LeBron James,Cleveland Cavaliers,2006,21,28.1
+Eric Snow,Cleveland Cavaliers,2006,32,8.1
+Zydrunas Ilgauskas,Cleveland Cavaliers,2006,30,21.9
+Drew Gooden,Cleveland Cavaliers,2006,24,17.6
+Damon Jones,Cleveland Cavaliers,2006,29,9.3
+Donyell Marshall,Cleveland Cavaliers,2006,32,13.4
+Larry Hughes,Cleveland Cavaliers,2006,27,14.0
+Ronald Murray,Cleveland Cavaliers,2006,26,11.9
+Sasha Pavlovic,Cleveland Cavaliers,2006,22,6.9
+Anderson Varejao,Cleveland Cavaliers,2006,23,14.8
+Alan Henderson,Cleveland Cavaliers,2006,33,12.2
+Ira Newble,Cleveland Cavaliers,2006,31,4.0
+Luke Jackson,Cleveland Cavaliers,2006,24,7.9
+Mike Wilks,Cleveland Cavaliers,2006,26,2.0
+Stephen Graham,Cleveland Cavaliers,2006,23,6.7
+Zendon Hamilton,Cleveland Cavaliers,2006,30,18.2
+Martynas Andriuskevicius,Cleveland Cavaliers,2006,19,15.5
+Chauncey Billups,Detroit Pistons,2006,29,23.4
+Tayshaun Prince,Detroit Pistons,2006,25,14.8
+Ben Wallace,Detroit Pistons,2006,31,17.5
+Richard Hamilton,Detroit Pistons,2006,27,18.2
+Rasheed Wallace,Detroit Pistons,2006,31,17.6
+Antonio McDyess,Detroit Pistons,2006,31,15.5
+Maurice Evans,Detroit Pistons,2006,27,14.0
+Carlos Delfino,Detroit Pistons,2006,23,10.6
+Carlos Arroyo,Detroit Pistons,2006,26,12.5
+Tony Delk,Detroit Pistons,2006,32,16.1
+Lindsey Hunter,Detroit Pistons,2006,35,10.5
+Dale Davis,Detroit Pistons,2006,36,9.9
+Jason Maxiell,Detroit Pistons,2006,22,8.0
+Darko Milicic,Detroit Pistons,2006,20,10.1
+Amir Johnson,Detroit Pistons,2006,18,20.3
+Alex Acker,Detroit Pistons,2006,23,-2.4
+Kelvin Cato,Detroit Pistons,2006,31,7.7
+Jamal Crawford,New York Knicks,2006,25,15.5
+Stephon Marbury,New York Knicks,2006,28,16.4
+Eddy Curry,New York Knicks,2006,23,17.0
+Channing Frye,New York Knicks,2006,22,18.1
+Nate Robinson,New York Knicks,2006,21,12.6
+Quentin Richardson,New York Knicks,2006,25,9.6
+Maurice Taylor,New York Knicks,2006,29,8.5
+David Lee,New York Knicks,2006,22,15.4
+Malik Rose,New York Knicks,2006,31,10.2
+Qyntel Woods,New York Knicks,2006,24,12.4
+Antonio Davis,New York Knicks,2006,37,8.9
+Jalen Rose,New York Knicks,2006,33,14.5
+Jackie Butler,New York Knicks,2006,20,14.8
+Trevor Ariza,New York Knicks,2006,20,10.2
+Steve Francis,New York Knicks,2006,28,13.4
+Jerome James,New York Knicks,2006,30,6.3
+Ime Udoka,New York Knicks,2006,28,6.1
+Matt Barnes,New York Knicks,2006,25,9.8
+Anfernee Hardaway,New York Knicks,2006,34,2.0
+Morris Peterson,Toronto Raptors,2006,28,15.3
+Mike James,Toronto Raptors,2006,30,19.8
+Chris Bosh,Toronto Raptors,2006,21,23.2
+Charlie Villanueva,Toronto Raptors,2006,21,16.4
+Matt Bonner,Toronto Raptors,2006,25,13.7
+Joey Graham,Toronto Raptors,2006,23,10.2
+Jose Calderon,Toronto Raptors,2006,24,11.4
+Jalen Rose,Toronto Raptors,2006,33,13.5
+Rafael Araujo,Toronto Raptors,2006,25,4.5
+Pape Sow,Toronto Raptors,2006,24,9.5
+Eric Williams,Toronto Raptors,2006,33,6.8
+Darrick Martin,Toronto Raptors,2006,34,11.5
+Loren Woods,Toronto Raptors,2006,27,12.3
+Andre Barrett,Toronto Raptors,2006,23,11.0
+Antonio Davis,Toronto Raptors,2006,37,5.9
+Aaron Williams,Toronto Raptors,2006,34,7.2
+Alvin Williams,Toronto Raptors,2006,31,-4.7
+Paul Pierce,Boston Celtics,2006,28,23.6
+Delonte West,Boston Celtics,2006,22,15.1
+Raef LaFrentz,Boston Celtics,2006,29,12.0
+Ricky Davis,Boston Celtics,2006,26,16.0
+Ryan Gomes,Boston Celtics,2006,23,14.0
+Kendrick Perkins,Boston Celtics,2006,21,13.2
+Orien Greene,Boston Celtics,2006,23,6.4
+Wally Szczerbiak,Boston Celtics,2006,28,17.2
+Mark Blount,Boston Celtics,2006,30,12.0
+Al Jefferson,Boston Celtics,2006,21,16.2
+Tony Allen,Boston Celtics,2006,24,12.9
+Brian Scalabrine,Boston Celtics,2006,27,5.9
+Gerald Green,Boston Celtics,2006,20,13.1
+Justin Reed,Boston Celtics,2006,24,3.3
+Marcus Banks,Boston Celtics,2006,24,9.4
+Dan Dickau,Boston Celtics,2006,27,10.4
+Michael Olowokandi,Boston Celtics,2006,30,6.8
+Dwayne Jones,Boston Celtics,2006,22,9.2
+Allen Iverson,Philadelphia 76ers,2006,30,25.9
+Andre Iguodala,Philadelphia 76ers,2006,22,14.8
+Chris Webber,Philadelphia 76ers,2006,32,18.4
+Kyle Korver,Philadelphia 76ers,2006,24,12.3
+John Salmons,Philadelphia 76ers,2006,26,10.7
+Samuel Dalembert,Philadelphia 76ers,2006,24,14.2
+Steven Hunter,Philadelphia 76ers,2006,24,13.9
+Kevin Ollie,Philadelphia 76ers,2006,33,7.8
+Matt Barnes,Philadelphia 76ers,2006,25,10.8
+Shavlik Randolph,Philadelphia 76ers,2006,22,12.6
+Michael Bradley,Philadelphia 76ers,2006,26,8.4
+Lee Nailon,Philadelphia 76ers,2006,30,14.5
+Willie Green,Philadelphia 76ers,2006,24,8.6
+Lou Williams,Philadelphia 76ers,2006,19,9.0
+James Thomas,Philadelphia 76ers,2006,25,4.1
+Deng Gai,Philadelphia 76ers,2006,23,0.0
+Zendon Hamilton,Philadelphia 76ers,2006,30,8.2
+Richard Jefferson,New Jersey Nets,2006,25,18.9
+Jason Kidd,New Jersey Nets,2006,32,19.2
+Vince Carter,New Jersey Nets,2006,29,21.6
+Nenad Krstic,New Jersey Nets,2006,22,14.4
+Jason Collins,New Jersey Nets,2006,27,5.5
+Clifford Robinson,New Jersey Nets,2006,39,9.6
+Jacque Vaughn,New Jersey Nets,2006,30,7.5
+Scott Padgett,New Jersey Nets,2006,29,12.5
+Zoran Planinic,New Jersey Nets,2006,23,6.9
+Lamond Murray,New Jersey Nets,2006,32,10.8
+Jeff McInnis,New Jersey Nets,2006,31,9.2
+Marc Jackson,New Jersey Nets,2006,31,10.7
+Antoine Wright,New Jersey Nets,2006,21,0.7
+Bostjan Nachbar,New Jersey Nets,2006,25,6.9
+John Thomas,New Jersey Nets,2006,30,3.5
+Linton Johnson,New Jersey Nets,2006,25,4.4
+Derrick Zimmerman,New Jersey Nets,2006,24,5.5
+Desmond Mason,New Orleans/Oklahoma City Hornets,2007,29,10.8
+Tyson Chandler,New Orleans/Oklahoma City Hornets,2007,24,17.0
+Chris Paul,New Orleans/Oklahoma City Hornets,2007,21,22.0
+Rasual Butler,New Orleans/Oklahoma City Hornets,2007,27,10.8
+David West,New Orleans/Oklahoma City Hornets,2007,26,18.9
+Jannero Pargo,New Orleans/Oklahoma City Hornets,2007,27,13.4
+Devin Brown,New Orleans/Oklahoma City Hornets,2007,28,14.3
+Bobby Jackson,New Orleans/Oklahoma City Hornets,2007,33,15.1
+Marc Jackson,New Orleans/Oklahoma City Hornets,2007,32,11.9
+Linton Johnson,New Orleans/Oklahoma City Hornets,2007,26,14.0
+Hilton Armstrong,New Orleans/Oklahoma City Hornets,2007,22,12.2
+Cedric Simmons,New Orleans/Oklahoma City Hornets,2007,21,8.0
+Peja Stojakovic,New Orleans/Oklahoma City Hornets,2007,29,15.8
+Brandon Bass,New Orleans/Oklahoma City Hornets,2007,21,7.2
+Marcus Vinicius,New Orleans/Oklahoma City Hornets,2007,22,6.9
+Rafer Alston,Houston Rockets,2007,30,12.9
+Shane Battier,Houston Rockets,2007,28,12.0
+Tracy McGrady,Houston Rockets,2007,27,23.2
+Luther Head,Houston Rockets,2007,24,13.7
+Juwan Howard,Houston Rockets,2007,33,12.8
+Chuck Hayes,Houston Rockets,2007,23,13.9
+Yao Ming,Houston Rockets,2007,26,26.5
+Dikembe Mutombo,Houston Rockets,2007,40,14.4
+Bonzi Wells,Houston Rockets,2007,30,8.9
+Kirk Snyder,Houston Rockets,2007,23,12.2
+John Lucas III,Houston Rockets,2007,24,11.8
+Vassilis Spanoulis,Houston Rockets,2007,24,5.4
+Scott Padgett,Houston Rockets,2007,30,5.6
+Steve Novak,Houston Rockets,2007,23,7.7
+Jake Tsakalidis,Houston Rockets,2007,27,12.0
+Tim Duncan,San Antonio Spurs,2007,30,26.1
+Tony Parker,San Antonio Spurs,2007,24,21.4
+Bruce Bowen,San Antonio Spurs,2007,35,7.1
+Manu Ginobili,San Antonio Spurs,2007,29,24.1
+Michael Finley,San Antonio Spurs,2007,33,13.7
+Brent Barry,San Antonio Spurs,2007,35,16.6
+Fabricio Oberto,San Antonio Spurs,2007,31,11.9
+Francisco Elson,San Antonio Spurs,2007,30,11.2
+Robert Horry,San Antonio Spurs,2007,36,11.9
+Beno Udrih,San Antonio Spurs,2007,24,10.3
+Jacque Vaughn,San Antonio Spurs,2007,31,10.9
+Matt Bonner,San Antonio Spurs,2007,26,16.4
+James White,San Antonio Spurs,2007,24,12.1
+Jackie Butler,San Antonio Spurs,2007,21,9.6
+Eric Williams,San Antonio Spurs,2007,34,14.8
+Melvin Ely,San Antonio Spurs,2007,28,6.7
+Jason Terry,Dallas Mavericks,2007,29,18.9
+Dirk Nowitzki,Dallas Mavericks,2007,28,27.6
+Josh Howard,Dallas Mavericks,2007,26,20.0
+Devin Harris,Dallas Mavericks,2007,23,16.0
+Erick Dampier,Dallas Mavericks,2007,31,14.9
+Jerry Stackhouse,Dallas Mavericks,2007,32,16.8
+DeSagana Diop,Dallas Mavericks,2007,25,10.6
+Greg Buckner,Dallas Mavericks,2007,30,7.8
+Devean George,Dallas Mavericks,2007,29,9.7
+Austin Croshere,Dallas Mavericks,2007,31,10.9
+Anthony Johnson,Dallas Mavericks,2007,32,9.3
+Maurice Ager,Dallas Mavericks,2007,22,2.9
+J.J. Barea,Dallas Mavericks,2007,22,9.6
+Didier Ilunga-Mbenga,Dallas Mavericks,2007,26,7.2
+Pops Mensah-Bonsu,Dallas Mavericks,2007,23,11.6
+Kevin Willis,Dallas Mavericks,2007,44,6.3
+Kevin Martin,Sacramento Kings,2007,23,20.1
+Mike Bibby,Sacramento Kings,2007,28,16.0
+Metta World Peace,Sacramento Kings,2007,27,18.5
+John Salmons,Sacramento Kings,2007,27,12.7
+Shareef Abdur-Rahim,Sacramento Kings,2007,30,13.1
+Brad Miller,Sacramento Kings,2007,30,13.5
+Kenny Thomas,Sacramento Kings,2007,29,10.2
+Francisco Garcia,Sacramento Kings,2007,25,11.7
+Corliss Williamson,Sacramento Kings,2007,33,12.7
+Ronnie Price,Sacramento Kings,2007,23,10.5
+Quincy Douby,Sacramento Kings,2007,22,9.0
+Justin Williams,Sacramento Kings,2007,22,17.3
+Maurice Taylor,Sacramento Kings,2007,30,6.3
+Jason Hart,Sacramento Kings,2007,28,14.5
+Vitaly Potapenko,Sacramento Kings,2007,31,-22.1
+Elton Brand,Los Angeles Clippers,2007,27,23.1
+Cuttino Mobley,Los Angeles Clippers,2007,31,12.5
+Corey Maggette,Los Angeles Clippers,2007,27,18.6
+Chris Kaman,Los Angeles Clippers,2007,24,12.9
+Tim Thomas,Los Angeles Clippers,2007,29,13.6
+Quinton Ross,Los Angeles Clippers,2007,25,10.5
+Shaun Livingston,Los Angeles Clippers,2007,21,13.7
+Sam Cassell,Los Angeles Clippers,2007,37,17.1
+Jason Hart,Los Angeles Clippers,2007,28,12.0
+Daniel Ewing,Los Angeles Clippers,2007,23,9.3
+James Singleton,Los Angeles Clippers,2007,25,11.9
+Aaron Williams,Los Angeles Clippers,2007,35,9.4
+Paul Davis,Los Angeles Clippers,2007,22,11.2
+Doug Christie,Los Angeles Clippers,2007,36,4.1
+Yaroslav Korolev,Los Angeles Clippers,2007,19,8.0
+Will Conroy,Los Angeles Clippers,2007,24,-0.4
+Luke Jackson,Los Angeles Clippers,2007,25,-6.0
+Alvin Williams,Los Angeles Clippers,2007,32,6.6
+Von Wafer,Los Angeles Clippers,2007,21,-40.7
+Monta Ellis,Golden State Warriors,2007,21,15.0
+Andris Biedrins,Golden State Warriors,2007,20,16.2
+Baron Davis,Golden State Warriors,2007,27,21.0
+Mickael Pietrus,Golden State Warriors,2007,24,13.0
+Matt Barnes,Golden State Warriors,2007,26,14.7
+Jason Richardson,Golden State Warriors,2007,26,15.5
+Al Harrington,Golden State Warriors,2007,26,16.1
+Stephen Jackson,Golden State Warriors,2007,28,15.7
+Mike Dunleavy,Golden State Warriors,2007,26,14.6
+Kelenna Azubuike,Golden State Warriors,2007,23,13.4
+Troy Murphy,Golden State Warriors,2007,26,14.8
+Adonal Foyle,Golden State Warriors,2007,31,13.7
+Keith McLeod,Golden State Warriors,2007,27,12.3
+Sarunas Jasikevicius,Golden State Warriors,2007,30,11.3
+Josh Powell,Golden State Warriors,2007,24,12.0
+Anthony Roberson,Golden State Warriors,2007,23,11.4
+Ike Diogu,Golden State Warriors,2007,23,18.4
+Patrick O'Bryant,Golden State Warriors,2007,20,7.3
+Renaldo Major,Golden State Warriors,2007,24,-3.7
+Dajuan Wagner,Golden State Warriors,2007,23,17.2
+Kobe Bryant,Los Angeles Lakers,2007,28,26.1
+Smush Parker,Los Angeles Lakers,2007,25,11.6
+Lamar Odom,Los Angeles Lakers,2007,27,16.1
+Luke Walton,Los Angeles Lakers,2007,26,14.7
+Andrew Bynum,Los Angeles Lakers,2007,19,15.4
+Maurice Evans,Los Angeles Lakers,2007,28,12.1
+Kwame Brown,Los Angeles Lakers,2007,24,13.7
+Jordan Farmar,Los Angeles Lakers,2007,20,10.8
+Ronny Turiaf,Los Angeles Lakers,2007,24,15.5
+Brian Cook,Los Angeles Lakers,2007,26,14.8
+Vladimir Radmanovic,Los Angeles Lakers,2007,26,11.0
+Sasha Vujacic,Los Angeles Lakers,2007,22,11.7
+Shammond Williams,Los Angeles Lakers,2007,31,10.8
+Aaron McKie,Los Angeles Lakers,2007,34,7.5
+Shawn Marion,Phoenix Suns,2007,28,20.8
+Raja Bell,Phoenix Suns,2007,30,12.0
+Amar'e Stoudemire,Phoenix Suns,2007,24,23.1
+Steve Nash,Phoenix Suns,2007,32,23.8
+Leandro Barbosa,Phoenix Suns,2007,24,18.4
+Boris Diaw,Phoenix Suns,2007,24,13.0
+James Jones,Phoenix Suns,2007,26,10.8
+Kurt Thomas,Phoenix Suns,2007,34,11.4
+Marcus Banks,Phoenix Suns,2007,25,11.3
+Jalen Rose,Phoenix Suns,2007,34,13.4
+Pat Burke,Phoenix Suns,2007,33,9.3
+Jumaine Jones,Phoenix Suns,2007,27,3.2
+Eric Piatkowski,Phoenix Suns,2007,36,7.7
+Sean Marks,Phoenix Suns,2007,31,6.7
+Chris Wilcox,Seattle SuperSonics,2007,24,16.6
+Nick Collison,Seattle SuperSonics,2007,26,14.2
+Rashard Lewis,Seattle SuperSonics,2007,27,20.7
+Ray Allen,Seattle SuperSonics,2007,31,21.6
+Earl Watson,Seattle SuperSonics,2007,27,13.5
+Luke Ridnour,Seattle SuperSonics,2007,25,13.7
+Damien Wilkins,Seattle SuperSonics,2007,27,13.1
+Johan Petro,Seattle SuperSonics,2007,21,11.6
+Mickael Gelabale,Seattle SuperSonics,2007,23,9.8
+Mike Wilks,Seattle SuperSonics,2007,27,12.7
+Andre Brown,Seattle SuperSonics,2007,25,11.1
+Mouhamed Sene,Seattle SuperSonics,2007,20,8.5
+Danny Fortson,Seattle SuperSonics,2007,30,4.3
+Andreas Glyniadakis,Seattle SuperSonics,2007,25,-3.3
+Desmon Farmer,Seattle SuperSonics,2007,25,15.4
+Randy Livingston,Seattle SuperSonics,2007,31,-1.2
+Ricky Davis,Minnesota Timberwolves,2007,27,15.9
+Kevin Garnett,Minnesota Timberwolves,2007,30,24.1
+Mark Blount,Minnesota Timberwolves,2007,31,12.7
+Trenton Hassell,Minnesota Timberwolves,2007,27,9.7
+Mike James,Minnesota Timberwolves,2007,31,13.3
+Randy Foye,Minnesota Timberwolves,2007,23,14.0
+Marko Jaric,Minnesota Timberwolves,2007,28,9.6
+Craig Smith,Minnesota Timberwolves,2007,23,15.7
+Troy Hudson,Minnesota Timberwolves,2007,30,10.8
+Rashad McCants,Minnesota Timberwolves,2007,22,7.2
+Mark Madsen,Minnesota Timberwolves,2007,31,4.5
+Justin Reed,Minnesota Timberwolves,2007,25,6.3
+Bracey Wright,Minnesota Timberwolves,2007,22,13.8
+Eddie Griffin,Minnesota Timberwolves,2007,24,5.2
+Jarrett Jack,Portland Trail Blazers,2007,23,14.5
+Zach Randolph,Portland Trail Blazers,2007,25,22.8
+Ime Udoka,Portland Trail Blazers,2007,29,12.1
+Brandon Roy,Portland Trail Blazers,2007,22,18.0
+Martell Webster,Portland Trail Blazers,2007,20,9.9
+Jamaal Magloire,Portland Trail Blazers,2007,28,11.5
+Travis Outlaw,Portland Trail Blazers,2007,22,15.3
+LaMarcus Aldridge,Portland Trail Blazers,2007,21,17.1
+Juan Dixon,Portland Trail Blazers,2007,28,11.2
+Sergio Rodriguez,Portland Trail Blazers,2007,20,14.1
+Joel Przybilla,Portland Trail Blazers,2007,27,7.4
+Fred Jones,Portland Trail Blazers,2007,27,10.3
+Dan Dickau,Portland Trail Blazers,2007,28,12.2
+Raef LaFrentz,Portland Trail Blazers,2007,30,8.7
+Stephen Graham,Portland Trail Blazers,2007,24,5.4
+Luke Schenscher,Portland Trail Blazers,2007,24,3.9
+Jeremy Richardson,Portland Trail Blazers,2007,22,0.0
+Carmelo Anthony,Denver Nuggets,2007,22,22.1
+Marcus Camby,Denver Nuggets,2007,32,19.1
+Allen Iverson,Denver Nuggets,2007,31,18.4
+Nene Hilario,Denver Nuggets,2007,24,17.8
+Eduardo Najera,Denver Nuggets,2007,30,13.5
+Steve Blake,Denver Nuggets,2007,26,11.0
+Linas Kleiza,Denver Nuggets,2007,22,11.1
+J.R. Smith,Denver Nuggets,2007,21,15.6
+Yakhouba Diawara,Denver Nuggets,2007,24,5.3
+Reggie Evans,Denver Nuggets,2007,26,13.5
+Earl Boykins,Denver Nuggets,2007,30,17.7
+Andre Miller,Denver Nuggets,2007,30,16.6
+DerMarr Johnson,Denver Nuggets,2007,26,6.1
+Joe Smith,Denver Nuggets,2007,31,12.4
+Jamal Sampson,Denver Nuggets,2007,23,11.3
+Kenyon Martin,Denver Nuggets,2007,29,5.4
+Anthony Carter,Denver Nuggets,2007,31,3.3
+Julius Hodge,Denver Nuggets,2007,23,16.0
+Deron Williams,Utah Jazz,2007,22,17.1
+Mehmet Okur,Utah Jazz,2007,27,18.1
+Carlos Boozer,Utah Jazz,2007,25,24.1
+Derek Fisher,Utah Jazz,2007,32,11.4
+Andrei Kirilenko,Utah Jazz,2007,25,14.3
+Matt Harpring,Utah Jazz,2007,30,14.7
+Paul Millsap,Utah Jazz,2007,21,17.6
+Gordan Giricek,Utah Jazz,2007,29,11.3
+Jarron Collins,Utah Jazz,2007,28,8.0
+Ronnie Brewer,Utah Jazz,2007,21,15.2
+Dee Brown,Utah Jazz,2007,22,8.6
+C.J. Miles,Utah Jazz,2007,19,2.8
+Rafael Araujo,Utah Jazz,2007,26,8.3
+Roger Powell,Utah Jazz,2007,24,-8.3
+Lou Amundson,Utah Jazz,2007,24,0.0
+Josh Smith,Atlanta Hawks,2007,21,18.3
+Joe Johnson,Atlanta Hawks,2007,25,19.5
+Marvin Williams,Atlanta Hawks,2007,20,12.2
+Zaza Pachulia,Atlanta Hawks,2007,22,16.8
+Josh Childress,Atlanta Hawks,2007,23,16.2
+Shelden Williams,Atlanta Hawks,2007,23,12.3
+Tyronn Lue,Atlanta Hawks,2007,29,14.1
+Speedy Claxton,Atlanta Hawks,2007,28,7.3
+Lorenzen Wright,Atlanta Hawks,2007,31,6.6
+Salim Stoudamire,Atlanta Hawks,2007,24,11.4
+Anthony Johnson,Atlanta Hawks,2007,32,10.3
+Solomon Jones,Atlanta Hawks,2007,22,12.3
+Royal Ivey,Atlanta Hawks,2007,25,9.6
+Cedric Bozeman,Atlanta Hawks,2007,23,-0.1
+Matt Freije,Atlanta Hawks,2007,25,6.1
+Stanislav Medvedenko,Atlanta Hawks,2007,27,13.7
+Esteban Batista,Atlanta Hawks,2007,23,12.5
+Dijon Thompson,Atlanta Hawks,2007,23,11.6
+Jeremy Richardson,Atlanta Hawks,2007,22,14.5
+Raymond Felton,Charlotte Bobcats,2007,22,13.5
+Gerald Wallace,Charlotte Bobcats,2007,24,19.8
+Emeka Okafor,Charlotte Bobcats,2007,24,20.1
+Adam Morrison,Charlotte Bobcats,2007,22,7.9
+Matt Carroll,Charlotte Bobcats,2007,26,14.6
+Brevin Knight,Charlotte Bobcats,2007,31,14.3
+Derek Anderson,Charlotte Bobcats,2007,32,13.7
+Jake Voskuhl,Charlotte Bobcats,2007,29,10.9
+Walter Herrmann,Charlotte Bobcats,2007,27,16.1
+Primoz Brezec,Charlotte Bobcats,2007,27,9.7
+Sean May,Charlotte Bobcats,2007,22,19.1
+Jeff McInnis,Charlotte Bobcats,2007,32,7.7
+Alan Anderson,Charlotte Bobcats,2007,24,10.1
+Melvin Ely,Charlotte Bobcats,2007,28,4.8
+Bernard Robinson,Charlotte Bobcats,2007,26,6.3
+Othella Harrington,Charlotte Bobcats,2007,33,5.0
+Ryan Hollins,Charlotte Bobcats,2007,22,8.5
+Eric Williams,Charlotte Bobcats,2007,34,2.4
+Dwight Howard,Orlando Magic,2007,21,21.1
+Jameer Nelson,Orlando Magic,2007,24,13.9
+Hedo Turkoglu,Orlando Magic,2007,27,14.2
+Grant Hill,Orlando Magic,2007,34,16.3
+Darko Milicic,Orlando Magic,2007,21,13.8
+Tony Battie,Orlando Magic,2007,30,9.8
+Keyon Dooling,Orlando Magic,2007,26,11.1
+Carlos Arroyo,Orlando Magic,2007,27,14.4
+Trevor Ariza,Orlando Magic,2007,21,16.2
+Keith Bogans,Orlando Magic,2007,26,9.2
+J.J. Redick,Orlando Magic,2007,22,13.0
+Bo Outlaw,Orlando Magic,2007,35,11.4
+Travis Diener,Orlando Magic,2007,24,11.6
+Pat Garrity,Orlando Magic,2007,30,6.4
+James Augustine,Orlando Magic,2007,22,16.6
+Gilbert Arenas,Washington Wizards,2007,25,24.0
+Antawn Jamison,Washington Wizards,2007,30,18.4
+Caron Butler,Washington Wizards,2007,26,18.3
+DeShawn Stevenson,Washington Wizards,2007,25,12.9
+Antonio Daniels,Washington Wizards,2007,31,15.0
+Brendan Haywood,Washington Wizards,2007,27,14.2
+Jarvis Hayes,Washington Wizards,2007,25,10.7
+Etan Thomas,Washington Wizards,2007,28,15.6
+Darius Songaila,Washington Wizards,2007,28,13.6
+Andray Blatche,Washington Wizards,2007,20,12.1
+Roger Mason,Washington Wizards,2007,26,7.2
+Calvin Booth,Washington Wizards,2007,30,9.6
+Donell Taylor,Washington Wizards,2007,24,10.3
+Michael Ruffin,Washington Wizards,2007,30,4.4
+James Lang,Washington Wizards,2007,23,6.6
+Mike Hall,Washington Wizards,2007,22,3.1
+Udonis Haslem,Miami Heat,2007,26,13.7
+Dwyane Wade,Miami Heat,2007,25,28.9
+James Posey,Miami Heat,2007,30,12.7
+Jason Williams,Miami Heat,2007,31,15.0
+Antoine Walker,Miami Heat,2007,30,9.6
+Jason Kapono,Miami Heat,2007,25,13.8
+Alonzo Mourning,Miami Heat,2007,36,16.7
+Gary Payton,Miami Heat,2007,38,9.0
+Dorell Wright,Miami Heat,2007,21,12.7
+Shaquille O'Neal,Miami Heat,2007,34,21.7
+Eddie Jones,Miami Heat,2007,35,14.3
+Michael Doleac,Miami Heat,2007,29,11.0
+Chris Quinn,Miami Heat,2007,23,12.3
+Earl Barron,Miami Heat,2007,25,6.6
+Robert Hite,Miami Heat,2007,23,7.4
+Wayne Simien,Miami Heat,2007,23,6.3
+Charlie Bell,Milwaukee Bucks,2007,27,13.1
+Ruben Patterson,Milwaukee Bucks,2007,31,18.5
+Mo Williams,Milwaukee Bucks,2007,24,16.3
+Andrew Bogut,Milwaukee Bucks,2007,22,15.5
+Michael Redd,Milwaukee Bucks,2007,27,22.3
+Brian Skinner,Milwaukee Bucks,2007,30,8.9
+Earl Boykins,Milwaukee Bucks,2007,30,15.1
+Charlie Villanueva,Milwaukee Bucks,2007,22,15.8
+Ersan Ilyasova,Milwaukee Bucks,2007,19,12.1
+Dan Gadzuric,Milwaukee Bucks,2007,28,11.9
+David Noel,Milwaukee Bucks,2007,22,9.0
+Steve Blake,Milwaukee Bucks,2007,26,6.8
+Lynn Greer,Milwaukee Bucks,2007,27,14.0
+Jared Reiner,Milwaukee Bucks,2007,24,4.8
+Damir Markota,Milwaukee Bucks,2007,21,5.0
+Julius Hodge,Milwaukee Bucks,2007,23,11.4
+Chris McCray,Milwaukee Bucks,2007,22,-20.7
+Danny Granger,Indiana Pacers,2007,23,13.9
+Jermaine O'Neal,Indiana Pacers,2007,28,18.8
+Jamaal Tinsley,Indiana Pacers,2007,28,15.2
+Jeff Foster,Indiana Pacers,2007,30,13.0
+Mike Dunleavy,Indiana Pacers,2007,26,13.8
+Darrell Armstrong,Indiana Pacers,2007,38,15.1
+Al Harrington,Indiana Pacers,2007,26,13.4
+Stephen Jackson,Indiana Pacers,2007,28,13.1
+Troy Murphy,Indiana Pacers,2007,26,14.3
+Marquis Daniels,Indiana Pacers,2007,26,11.6
+Sarunas Jasikevicius,Indiana Pacers,2007,30,12.9
+Shawne Williams,Indiana Pacers,2007,20,9.7
+Ike Diogu,Indiana Pacers,2007,23,13.5
+Maceo Baston,Indiana Pacers,2007,31,13.7
+Rawle Marshall,Indiana Pacers,2007,24,6.7
+Keith McLeod,Indiana Pacers,2007,27,8.0
+Orien Greene,Indiana Pacers,2007,24,6.5
+David Harrison,Indiana Pacers,2007,24,7.0
+Josh Powell,Indiana Pacers,2007,24,-1.3
+Luol Deng,Chicago Bulls,2007,21,18.7
+Kirk Hinrich,Chicago Bulls,2007,26,17.0
+Ben Gordon,Chicago Bulls,2007,23,18.2
+Ben Wallace,Chicago Bulls,2007,32,14.6
+Chris Duhon,Chicago Bulls,2007,24,11.9
+P.J. Brown,Chicago Bulls,2007,37,9.7
+Andres Nocioni,Chicago Bulls,2007,27,15.6
+Tyrus Thomas,Chicago Bulls,2007,20,14.8
+Thabo Sefolosha,Chicago Bulls,2007,22,8.5
+Malik Allen,Chicago Bulls,2007,28,10.4
+Adrian Griffin,Chicago Bulls,2007,32,10.7
+Mike Sweetney,Chicago Bulls,2007,24,10.9
+Viktor Khryapa,Chicago Bulls,2007,24,9.5
+Andre Barrett,Chicago Bulls,2007,24,8.2
+LeBron James,Cleveland Cavaliers,2007,22,24.5
+Larry Hughes,Cleveland Cavaliers,2007,28,12.1
+Drew Gooden,Cleveland Cavaliers,2007,25,16.5
+Zydrunas Ilgauskas,Cleveland Cavaliers,2007,31,18.0
+Anderson Varejao,Cleveland Cavaliers,2007,24,14.4
+Eric Snow,Cleveland Cavaliers,2007,33,8.6
+Sasha Pavlovic,Cleveland Cavaliers,2007,23,12.1
+Donyell Marshall,Cleveland Cavaliers,2007,33,15.3
+Damon Jones,Cleveland Cavaliers,2007,30,10.2
+Daniel Gibson,Cleveland Cavaliers,2007,20,9.4
+David Wesley,Cleveland Cavaliers,2007,36,6.6
+Shannon Brown,Cleveland Cavaliers,2007,21,7.5
+Ira Newble,Cleveland Cavaliers,2007,32,14.9
+Scot Pollard,Cleveland Cavaliers,2007,31,8.5
+Dwayne Jones,Cleveland Cavaliers,2007,23,-0.5
+Tayshaun Prince,Detroit Pistons,2007,26,16.0
+Richard Hamilton,Detroit Pistons,2007,28,18.1
+Chauncey Billups,Detroit Pistons,2007,30,21.3
+Rasheed Wallace,Detroit Pistons,2007,32,15.7
+Antonio McDyess,Detroit Pistons,2007,32,18.1
+Ronald Murray,Detroit Pistons,2007,27,10.8
+Carlos Delfino,Detroit Pistons,2007,24,12.8
+Chris Webber,Detroit Pistons,2007,33,16.9
+Jason Maxiell,Detroit Pistons,2007,23,14.4
+Nazr Mohammed,Detroit Pistons,2007,29,16.5
+Lindsey Hunter,Detroit Pistons,2007,36,12.7
+Dale Davis,Detroit Pistons,2007,37,13.2
+Will Blalock,Detroit Pistons,2007,23,4.5
+Amir Johnson,Detroit Pistons,2007,19,20.6
+Ronald Dupree,Detroit Pistons,2007,26,7.4
+Al Jefferson,Boston Celtics,2007,22,19.8
+Ryan Gomes,Boston Celtics,2007,24,13.7
+Delonte West,Boston Celtics,2007,23,14.0
+Rajon Rondo,Boston Celtics,2007,20,13.1
+Gerald Green,Boston Celtics,2007,21,12.0
+Paul Pierce,Boston Celtics,2007,29,21.7
+Sebastian Telfair,Boston Celtics,2007,21,8.6
+Kendrick Perkins,Boston Celtics,2007,22,9.5
+Brian Scalabrine,Boston Celtics,2007,28,6.6
+Wally Szczerbiak,Boston Celtics,2007,29,14.8
+Tony Allen,Boston Celtics,2007,25,17.0
+Leon Powe,Boston Celtics,2007,23,14.6
+Allan Ray,Boston Celtics,2007,22,10.0
+Michael Olowokandi,Boston Celtics,2007,31,4.5
+Kevinn Pinkney,Boston Celtics,2007,23,11.6
+Theo Ratliff,Boston Celtics,2007,33,6.7
+Eddy Curry,New York Knicks,2007,24,17.0
+Stephon Marbury,New York Knicks,2007,29,15.3
+Jamal Crawford,New York Knicks,2007,26,14.5
+Channing Frye,New York Knicks,2007,23,10.5
+David Lee,New York Knicks,2007,23,20.2
+Quentin Richardson,New York Knicks,2007,26,14.3
+Nate Robinson,New York Knicks,2007,22,15.2
+Jared Jeffries,New York Knicks,2007,25,8.6
+Steve Francis,New York Knicks,2007,29,15.1
+Renaldo Balkman,New York Knicks,2007,22,16.1
+Malik Rose,New York Knicks,2007,32,7.7
+Mardy Collins,New York Knicks,2007,22,9.2
+Jerome James,New York Knicks,2007,31,5.1
+Kelvin Cato,New York Knicks,2007,32,12.3
+Randolph Morris,New York Knicks,2007,21,1.5
+Andre Iguodala,Philadelphia 76ers,2007,23,18.1
+Samuel Dalembert,Philadelphia 76ers,2007,25,16.1
+Kyle Korver,Philadelphia 76ers,2007,25,14.2
+Andre Miller,Philadelphia 76ers,2007,30,15.9
+Willie Green,Philadelphia 76ers,2007,25,10.3
+Steven Hunter,Philadelphia 76ers,2007,25,12.3
+Joe Smith,Philadelphia 76ers,2007,31,14.1
+Rodney Carney,Philadelphia 76ers,2007,22,11.4
+Kevin Ollie,Philadelphia 76ers,2007,34,8.4
+Lou Williams,Philadelphia 76ers,2007,20,14.6
+Allen Iverson,Philadelphia 76ers,2007,31,23.5
+Chris Webber,Philadelphia 76ers,2007,33,13.8
+Alan Henderson,Philadelphia 76ers,2007,34,15.7
+Bobby Jones,Philadelphia 76ers,2007,23,9.4
+Shavlik Randolph,Philadelphia 76ers,2007,23,15.3
+Lou Amundson,Philadelphia 76ers,2007,24,9.8
+Ivan McFarlin,Philadelphia 76ers,2007,24,12.2
+Steven Smith,Philadelphia 76ers,2007,23,-1.8
+Vince Carter,New Jersey Nets,2007,30,21.8
+Jason Kidd,New Jersey Nets,2007,33,19.4
+Mikki Moore,New Jersey Nets,2007,31,14.8
+Richard Jefferson,New Jersey Nets,2007,26,13.8
+Jason Collins,New Jersey Nets,2007,28,3.0
+Bostjan Nachbar,New Jersey Nets,2007,26,14.5
+Marcus Williams,New Jersey Nets,2007,21,11.5
+Antoine Wright,New Jersey Nets,2007,22,8.1
+Clifford Robinson,New Jersey Nets,2007,40,5.9
+Eddie House,New Jersey Nets,2007,28,15.0
+Nenad Krstic,New Jersey Nets,2007,23,16.9
+Josh Boone,New Jersey Nets,2007,22,14.6
+Hassan Adams,New Jersey Nets,2007,22,13.0
+Bernard Robinson,New Jersey Nets,2007,26,16.2
+Mile Ilic,New Jersey Nets,2007,22,-48.6
+Chris Bosh,Toronto Raptors,2007,22,22.6
+Anthony Parker,Toronto Raptors,2007,31,14.5
+T.J. Ford,Toronto Raptors,2007,23,18.2
+Jorge Garbajosa,Toronto Raptors,2007,29,12.1
+Rasho Nesterovic,Toronto Raptors,2007,30,13.9
+Andrea Bargnani,Toronto Raptors,2007,21,12.8
+Jose Calderon,Toronto Raptors,2007,25,19.1
+Morris Peterson,Toronto Raptors,2007,29,13.2
+Joey Graham,Toronto Raptors,2007,24,12.9
+Fred Jones,Toronto Raptors,2007,27,9.9
+Juan Dixon,Toronto Raptors,2007,28,12.9
+Kris Humphries,Toronto Raptors,2007,21,13.5
+Darrick Martin,Toronto Raptors,2007,35,11.6
+Luke Jackson,Toronto Raptors,2007,25,12.5
+P.J. Tucker,Toronto Raptors,2007,21,12.8
+Uros Slokar,Toronto Raptors,2007,23,13.9
+Pape Sow,Toronto Raptors,2007,25,16.4
+Dirk Nowitzki,Dallas Mavericks,2008,29,24.6
+Josh Howard,Dallas Mavericks,2008,27,18.3
+Jason Terry,Dallas Mavericks,2008,30,17.8
+Erick Dampier,Dallas Mavericks,2008,32,15.3
+Brandon Bass,Dallas Mavericks,2008,22,15.9
+Jerry Stackhouse,Dallas Mavericks,2008,33,13.3
+Devin Harris,Dallas Mavericks,2008,24,18.0
+Jason Kidd,Dallas Mavericks,2008,34,18.4
+Eddie Jones,Dallas Mavericks,2008,36,7.6
+DeSagana Diop,Dallas Mavericks,2008,26,13.4
+Devean George,Dallas Mavericks,2008,30,7.0
+Trenton Hassell,Dallas Mavericks,2008,28,4.7
+J.J. Barea,Dallas Mavericks,2008,23,11.7
+Juwan Howard,Dallas Mavericks,2008,34,4.1
+Malik Allen,Dallas Mavericks,2008,29,9.1
+Antoine Wright,Dallas Mavericks,2008,23,9.0
+Tyronn Lue,Dallas Mavericks,2008,30,9.2
+Maurice Ager,Dallas Mavericks,2008,23,-4.4
+Jamaal Magloire,Dallas Mavericks,2008,29,-1.9
+Nick Fazekas,Dallas Mavericks,2008,22,13.8
+Shane Battier,Houston Rockets,2008,29,11.7
+Rafer Alston,Houston Rockets,2008,31,13.2
+Tracy McGrady,Houston Rockets,2008,28,18.4
+Yao Ming,Houston Rockets,2008,27,22.5
+Luis Scola,Houston Rockets,2008,27,16.1
+Chuck Hayes,Houston Rockets,2008,24,11.2
+Luther Head,Houston Rockets,2008,25,13.6
+Bonzi Wells,Houston Rockets,2008,31,14.1
+Carl Landry,Houston Rockets,2008,24,21.4
+Dikembe Mutombo,Houston Rockets,2008,41,14.5
+Aaron Brooks,Houston Rockets,2008,23,13.1
+Mike James,Houston Rockets,2008,32,9.6
+Bobby Jackson,Houston Rockets,2008,34,14.6
+Steve Novak,Houston Rockets,2008,24,17.3
+Steve Francis,Houston Rockets,2008,30,9.1
+Mike Harris,Houston Rockets,2008,24,17.1
+Kirk Snyder,Houston Rockets,2008,24,14.4
+Loren Woods,Houston Rockets,2008,29,13.4
+Bobby Jones,Houston Rockets,2008,24,5.9
+Justin Williams,Houston Rockets,2008,23,-13.0
+Gerald Green,Houston Rockets,2008,22,76.3
+Tim Duncan,San Antonio Spurs,2008,31,24.4
+Bruce Bowen,San Antonio Spurs,2008,36,7.0
+Tony Parker,San Antonio Spurs,2008,25,20.0
+Manu Ginobili,San Antonio Spurs,2008,30,24.3
+Michael Finley,San Antonio Spurs,2008,34,11.4
+Fabricio Oberto,San Antonio Spurs,2008,32,13.8
+Ime Udoka,San Antonio Spurs,2008,30,11.5
+Jacque Vaughn,San Antonio Spurs,2008,32,9.2
+Matt Bonner,San Antonio Spurs,2008,27,12.4
+Robert Horry,San Antonio Spurs,2008,37,9.6
+Brent Barry,San Antonio Spurs,2008,36,16.7
+Francisco Elson,San Antonio Spurs,2008,31,8.5
+Kurt Thomas,San Antonio Spurs,2008,35,11.1
+Damon Stoudamire,San Antonio Spurs,2008,34,4.6
+Darius Washington,San Antonio Spurs,2008,22,9.0
+Jeremy Richardson,San Antonio Spurs,2008,23,11.0
+DerMarr Johnson,San Antonio Spurs,2008,27,17.3
+Ian Mahinmi,San Antonio Spurs,2008,21,35.3
+Bobby Jones,San Antonio Spurs,2008,24,3.4
+Keith Langford,San Antonio Spurs,2008,24,-2.4
+Marcus Williams,San Antonio Spurs,2008,21,0.0
+Chris Paul,New Orleans Hornets,2008,22,28.3
+David West,New Orleans Hornets,2008,27,19.9
+Tyson Chandler,New Orleans Hornets,2008,25,17.5
+Peja Stojakovic,New Orleans Hornets,2008,30,15.7
+Morris Peterson,New Orleans Hornets,2008,30,11.2
+Jannero Pargo,New Orleans Hornets,2008,28,11.9
+Bobby Jackson,New Orleans Hornets,2008,34,12.9
+Rasual Butler,New Orleans Hornets,2008,28,8.8
+Hilton Armstrong,New Orleans Hornets,2008,23,7.7
+Ryan Bowen,New Orleans Hornets,2008,32,9.9
+Julian Wright,New Orleans Hornets,2008,20,15.4
+Melvin Ely,New Orleans Hornets,2008,29,9.0
+Bonzi Wells,New Orleans Hornets,2008,31,15.1
+Mike James,New Orleans Hornets,2008,32,5.7
+Marcus Vinicius,New Orleans Hornets,2008,23,11.6
+Chris Andersen,New Orleans Hornets,2008,29,6.1
+Cuttino Mobley,Los Angeles Clippers,2008,32,11.5
+Corey Maggette,Los Angeles Clippers,2008,28,19.3
+Al Thornton,Los Angeles Clippers,2008,24,12.7
+Chris Kaman,Los Angeles Clippers,2008,25,17.5
+Tim Thomas,Los Angeles Clippers,2008,30,12.2
+Brevin Knight,Los Angeles Clippers,2008,32,11.4
+Quinton Ross,Los Angeles Clippers,2008,26,7.6
+Josh Powell,Los Angeles Clippers,2008,25,10.7
+Dan Dickau,Los Angeles Clippers,2008,29,12.5
+Sam Cassell,Los Angeles Clippers,2008,38,16.8
+Smush Parker,Los Angeles Clippers,2008,26,7.6
+Ruben Patterson,Los Angeles Clippers,2008,32,10.9
+Aaron Williams,Los Angeles Clippers,2008,36,10.3
+Elton Brand,Los Angeles Clippers,2008,28,18.0
+Nick Fazekas,Los Angeles Clippers,2008,22,19.8
+Paul Davis,Los Angeles Clippers,2008,23,9.0
+Richie Frahm,Los Angeles Clippers,2008,30,5.5
+Marcus Williams,Los Angeles Clippers,2008,21,7.2
+Andre Barrett,Los Angeles Clippers,2008,25,12.5
+Guillermo Diaz,Los Angeles Clippers,2008,22,9.9
+John Salmons,Sacramento Kings,2008,28,13.9
+Brad Miller,Sacramento Kings,2008,31,16.8
+Mikki Moore,Sacramento Kings,2008,32,11.5
+Kevin Martin,Sacramento Kings,2008,24,21.0
+Metta World Peace,Sacramento Kings,2008,28,18.8
+Francisco Garcia,Sacramento Kings,2008,26,15.1
+Beno Udrih,Sacramento Kings,2008,25,13.3
+Spencer Hawes,Sacramento Kings,2008,19,11.6
+Quincy Douby,Sacramento Kings,2008,23,9.7
+Mike Bibby,Sacramento Kings,2008,29,13.5
+Anthony Johnson,Sacramento Kings,2008,33,8.9
+Shelden Williams,Sacramento Kings,2008,24,14.2
+Kenny Thomas,Sacramento Kings,2008,30,2.6
+Dahntay Jones,Sacramento Kings,2008,27,13.5
+Justin Williams,Sacramento Kings,2008,23,14.5
+Darryl Watkins,Sacramento Kings,2008,23,0.5
+Orien Greene,Sacramento Kings,2008,25,-3.3
+Shareef Abdur-Rahim,Sacramento Kings,2008,31,5.5
+Lorenzen Wright,Sacramento Kings,2008,32,-11.7
+Baron Davis,Golden State Warriors,2008,28,19.8
+Monta Ellis,Golden State Warriors,2008,22,19.0
+Stephen Jackson,Golden State Warriors,2008,29,14.9
+Al Harrington,Golden State Warriors,2008,27,15.6
+Andris Biedrins,Golden State Warriors,2008,21,19.2
+Kelenna Azubuike,Golden State Warriors,2008,24,13.5
+Matt Barnes,Golden State Warriors,2008,27,12.9
+Mickael Pietrus,Golden State Warriors,2008,25,12.7
+Austin Croshere,Golden State Warriors,2008,32,13.2
+Brandan Wright,Golden State Warriors,2008,20,17.2
+C.J. Watson,Golden State Warriors,2008,23,11.0
+Marco Belinelli,Golden State Warriors,2008,21,8.2
+Didier Ilunga-Mbenga,Golden State Warriors,2008,27,6.7
+Chris Webber,Golden State Warriors,2008,34,10.7
+Patrick O'Bryant,Golden State Warriors,2008,21,14.0
+Troy Hudson,Golden State Warriors,2008,31,5.2
+Kosta Perovic,Golden State Warriors,2008,22,10.3
+Stephane Lasme,Golden State Warriors,2008,25,
+Steve Nash,Phoenix Suns,2008,33,21.1
+Amar'e Stoudemire,Phoenix Suns,2008,25,27.6
+Raja Bell,Phoenix Suns,2008,31,10.5
+Leandro Barbosa,Phoenix Suns,2008,25,15.8
+Boris Diaw,Phoenix Suns,2008,25,12.0
+Grant Hill,Phoenix Suns,2008,35,15.7
+Shawn Marion,Phoenix Suns,2008,29,20.0
+Brian Skinner,Phoenix Suns,2008,31,11.4
+Shaquille O'Neal,Phoenix Suns,2008,35,16.5
+Gordan Giricek,Phoenix Suns,2008,30,12.3
+Marcus Banks,Phoenix Suns,2008,26,10.1
+D.J. Strawberry,Phoenix Suns,2008,22,6.2
+Sean Marks,Phoenix Suns,2008,32,16.1
+Eric Piatkowski,Phoenix Suns,2008,37,8.3
+Linton Johnson,Phoenix Suns,2008,27,9.5
+Alando Tucker,Phoenix Suns,2008,23,11.8
+Kobe Bryant,Los Angeles Lakers,2008,29,24.2
+Lamar Odom,Los Angeles Lakers,2008,28,16.9
+Derek Fisher,Los Angeles Lakers,2008,33,13.8
+Luke Walton,Los Angeles Lakers,2008,27,12.3
+Jordan Farmar,Los Angeles Lakers,2008,21,15.4
+Vladimir Radmanovic,Los Angeles Lakers,2008,27,12.6
+Ronny Turiaf,Los Angeles Lakers,2008,25,15.0
+Sasha Vujacic,Los Angeles Lakers,2008,23,15.1
+Andrew Bynum,Los Angeles Lakers,2008,20,22.6
+Pau Gasol,Los Angeles Lakers,2008,27,24.0
+Kwame Brown,Los Angeles Lakers,2008,25,9.7
+Trevor Ariza,Los Angeles Lakers,2008,22,17.1
+Chris Mihm,Los Angeles Lakers,2008,28,7.7
+Didier Ilunga-Mbenga,Los Angeles Lakers,2008,27,11.2
+Javaris Crittenton,Los Angeles Lakers,2008,20,11.0
+Maurice Evans,Los Angeles Lakers,2008,29,13.3
+Coby Karl,Los Angeles Lakers,2008,24,15.8
+Brian Cook,Los Angeles Lakers,2008,27,1.2
+Ira Newble,Los Angeles Lakers,2008,33,10.0
+Kevin Durant,Seattle SuperSonics,2008,19,15.8
+Earl Watson,Seattle SuperSonics,2008,28,14.6
+Jeff Green,Seattle SuperSonics,2008,21,9.8
+Nick Collison,Seattle SuperSonics,2008,27,15.0
+Damien Wilkins,Seattle SuperSonics,2008,28,11.3
+Chris Wilcox,Seattle SuperSonics,2008,25,16.3
+Johan Petro,Seattle SuperSonics,2008,22,10.0
+Luke Ridnour,Seattle SuperSonics,2008,26,11.3
+Wally Szczerbiak,Seattle SuperSonics,2008,30,15.7
+Kurt Thomas,Seattle SuperSonics,2008,35,15.8
+Delonte West,Seattle SuperSonics,2008,24,9.8
+Mickael Gelabale,Seattle SuperSonics,2008,24,10.5
+Francisco Elson,Seattle SuperSonics,2008,31,3.8
+Donyell Marshall,Seattle SuperSonics,2008,34,10.9
+Robert Swift,Seattle SuperSonics,2008,22,2.9
+Adrian Griffin,Seattle SuperSonics,2008,33,9.3
+Mouhamed Sene,Seattle SuperSonics,2008,21,18.2
+Mike Wilks,Seattle SuperSonics,2008,28,17.7
+Ronald Dupree,Seattle SuperSonics,2008,27,17.5
+Ira Newble,Seattle SuperSonics,2008,33,0.5
+Eddie Gill,Seattle SuperSonics,2008,29,-18.9
+Al Jefferson,Minnesota Timberwolves,2008,23,22.7
+Ryan Gomes,Minnesota Timberwolves,2008,25,15.7
+Marko Jaric,Minnesota Timberwolves,2008,29,12.1
+Rashad McCants,Minnesota Timberwolves,2008,23,14.6
+Sebastian Telfair,Minnesota Timberwolves,2008,22,10.4
+Corey Brewer,Minnesota Timberwolves,2008,21,8.3
+Craig Smith,Minnesota Timberwolves,2008,24,16.7
+Randy Foye,Minnesota Timberwolves,2008,24,12.7
+Antoine Walker,Minnesota Timberwolves,2008,31,11.4
+Kirk Snyder,Minnesota Timberwolves,2008,24,13.2
+Chris Richard,Minnesota Timberwolves,2008,23,7.9
+Greg Buckner,Minnesota Timberwolves,2008,31,7.2
+Gerald Green,Minnesota Timberwolves,2008,22,7.9
+Michael Doleac,Minnesota Timberwolves,2008,30,7.5
+Theo Ratliff,Minnesota Timberwolves,2008,34,12.3
+Mark Madsen,Minnesota Timberwolves,2008,32,0.2
+Brandon Roy,Portland Trail Blazers,2008,23,19.4
+LaMarcus Aldridge,Portland Trail Blazers,2008,22,18.5
+Steve Blake,Portland Trail Blazers,2008,27,12.0
+Jarrett Jack,Portland Trail Blazers,2008,24,13.0
+Travis Outlaw,Portland Trail Blazers,2008,23,15.7
+Martell Webster,Portland Trail Blazers,2008,21,12.0
+Joel Przybilla,Portland Trail Blazers,2008,28,12.3
+Channing Frye,Portland Trail Blazers,2008,24,14.8
+James Jones,Portland Trail Blazers,2008,27,13.6
+Sergio Rodriguez,Portland Trail Blazers,2008,21,9.0
+Raef LaFrentz,Portland Trail Blazers,2008,31,10.4
+Von Wafer,Portland Trail Blazers,2008,22,4.7
+Taurean Green,Portland Trail Blazers,2008,21,5.8
+Josh McRoberts,Portland Trail Blazers,2008,20,20.3
+Allen Iverson,Denver Nuggets,2008,32,20.9
+Carmelo Anthony,Denver Nuggets,2008,23,21.1
+Marcus Camby,Denver Nuggets,2008,33,17.2
+Kenyon Martin,Denver Nuggets,2008,30,14.7
+Anthony Carter,Denver Nuggets,2008,32,12.8
+Linas Kleiza,Denver Nuggets,2008,23,14.4
+Eduardo Najera,Denver Nuggets,2008,31,12.1
+J.R. Smith,Denver Nuggets,2008,22,18.1
+Yakhouba Diawara,Denver Nuggets,2008,25,8.1
+Chucky Atkins,Denver Nuggets,2008,33,8.9
+Nene Hilario,Denver Nuggets,2008,25,11.1
+Bobby Jones,Denver Nuggets,2008,24,8.5
+Mike Wilks,Denver Nuggets,2008,28,6.4
+Steven Hunter,Denver Nuggets,2008,26,8.6
+Von Wafer,Denver Nuggets,2008,22,-1.6
+Jelani McCoy,Denver Nuggets,2008,30,2.6
+Taurean Green,Denver Nuggets,2008,21,8.8
+Deron Williams,Utah Jazz,2008,23,20.8
+Carlos Boozer,Utah Jazz,2008,26,21.9
+Mehmet Okur,Utah Jazz,2008,28,15.2
+Andrei Kirilenko,Utah Jazz,2008,26,17.2
+Ronnie Brewer,Utah Jazz,2008,22,18.4
+Paul Millsap,Utah Jazz,2008,22,16.1
+Matt Harpring,Utah Jazz,2008,31,14.1
+Kyle Korver,Utah Jazz,2008,26,14.2
+Jarron Collins,Utah Jazz,2008,29,6.1
+C.J. Miles,Utah Jazz,2008,20,14.2
+Jason Hart,Utah Jazz,2008,29,8.0
+Ronnie Price,Utah Jazz,2008,24,12.3
+Gordan Giricek,Utah Jazz,2008,30,7.0
+Kyrylo Fesenko,Utah Jazz,2008,21,4.0
+Morris Almond,Utah Jazz,2008,22,2.0
+Ricky Davis,Miami Heat,2008,28,12.0
+Dwyane Wade,Miami Heat,2008,26,21.5
+Jason Williams,Miami Heat,2008,32,12.7
+Udonis Haslem,Miami Heat,2008,27,12.7
+Mark Blount,Miami Heat,2008,32,11.4
+Daequan Cook,Miami Heat,2008,20,7.9
+Chris Quinn,Miami Heat,2008,24,13.8
+Dorell Wright,Miami Heat,2008,22,14.4
+Shaquille O'Neal,Miami Heat,2008,35,17.7
+Earl Barron,Miami Heat,2008,26,9.4
+Shawn Marion,Miami Heat,2008,29,17.1
+Alexander Johnson,Miami Heat,2008,24,8.9
+Joel Anthony,Miami Heat,2008,25,8.8
+Alonzo Mourning,Miami Heat,2008,37,16.2
+Anfernee Hardaway,Miami Heat,2008,36,9.0
+Kasib Powell,Miami Heat,2008,26,9.0
+Stephane Lasme,Miami Heat,2008,25,11.7
+Marcus Banks,Miami Heat,2008,26,15.5
+Luke Jackson,Miami Heat,2008,26,9.1
+Smush Parker,Miami Heat,2008,26,5.5
+Blake Ahearn,Miami Heat,2008,23,9.0
+Bobby Jones,Miami Heat,2008,24,11.2
+Jason Richardson,Charlotte Bobcats,2008,27,18.4
+Raymond Felton,Charlotte Bobcats,2008,23,13.8
+Emeka Okafor,Charlotte Bobcats,2008,25,17.4
+Gerald Wallace,Charlotte Bobcats,2008,25,17.5
+Matt Carroll,Charlotte Bobcats,2008,27,10.7
+Nazr Mohammed,Charlotte Bobcats,2008,30,16.2
+Jeff McInnis,Charlotte Bobcats,2008,33,6.5
+Jared Dudley,Charlotte Bobcats,2008,22,13.6
+Earl Boykins,Charlotte Bobcats,2008,31,10.0
+Ryan Hollins,Charlotte Bobcats,2008,23,11.4
+Derek Anderson,Charlotte Bobcats,2008,33,10.0
+Jermareo Davidson,Charlotte Bobcats,2008,23,9.8
+Primoz Brezec,Charlotte Bobcats,2008,28,1.5
+Walter Herrmann,Charlotte Bobcats,2008,28,12.1
+Othella Harrington,Charlotte Bobcats,2008,34,5.8
+Joe Johnson,Atlanta Hawks,2008,26,17.3
+Josh Smith,Atlanta Hawks,2008,22,19.0
+Marvin Williams,Atlanta Hawks,2008,21,14.5
+Al Horford,Atlanta Hawks,2008,21,14.7
+Josh Childress,Atlanta Hawks,2008,24,17.8
+Anthony Johnson,Atlanta Hawks,2008,33,12.0
+Mike Bibby,Atlanta Hawks,2008,29,14.9
+Zaza Pachulia,Atlanta Hawks,2008,23,11.0
+Acie Law,Atlanta Hawks,2008,23,7.7
+Tyronn Lue,Atlanta Hawks,2008,30,12.7
+Shelden Williams,Atlanta Hawks,2008,24,9.8
+Salim Stoudamire,Atlanta Hawks,2008,25,11.1
+Mario West,Atlanta Hawks,2008,23,8.6
+Lorenzen Wright,Atlanta Hawks,2008,32,3.7
+Solomon Jones,Atlanta Hawks,2008,23,6.8
+Jeremy Richardson,Atlanta Hawks,2008,23,5.8
+Antawn Jamison,Washington Wizards,2008,31,20.3
+DeShawn Stevenson,Washington Wizards,2008,26,12.6
+Caron Butler,Washington Wizards,2008,27,20.7
+Brendan Haywood,Washington Wizards,2008,28,18.3
+Antonio Daniels,Washington Wizards,2008,32,13.7
+Roger Mason,Washington Wizards,2008,27,13.8
+Andray Blatche,Washington Wizards,2008,21,15.5
+Darius Songaila,Washington Wizards,2008,29,11.8
+Nick Young,Washington Wizards,2008,22,11.6
+Dominic McGuire,Washington Wizards,2008,22,6.6
+Gilbert Arenas,Washington Wizards,2008,26,18.2
+Oleksiy Pecherov,Washington Wizards,2008,22,9.6
+Mike Wilks,Washington Wizards,2008,28,10.1
+Dwight Howard,Orlando Magic,2008,22,22.9
+Rashard Lewis,Orlando Magic,2008,28,16.7
+Hedo Turkoglu,Orlando Magic,2008,28,17.8
+Keith Bogans,Orlando Magic,2008,27,10.9
+Jameer Nelson,Orlando Magic,2008,25,15.5
+Maurice Evans,Orlando Magic,2008,29,14.0
+Keyon Dooling,Orlando Magic,2008,27,14.1
+Carlos Arroyo,Orlando Magic,2008,28,12.8
+Adonal Foyle,Orlando Magic,2008,32,9.9
+Brian Cook,Orlando Magic,2008,27,9.5
+Pat Garrity,Orlando Magic,2008,31,3.2
+J.J. Redick,Orlando Magic,2008,23,12.7
+James Augustine,Orlando Magic,2008,23,10.8
+Trevor Ariza,Orlando Magic,2008,22,12.7
+Marcin Gortat,Orlando Magic,2008,23,19.8
+Bo Outlaw,Orlando Magic,2008,36,8.6
+Andrew Bogut,Milwaukee Bucks,2008,23,17.5
+Michael Redd,Milwaukee Bucks,2008,28,18.8
+Mo Williams,Milwaukee Bucks,2008,25,17.0
+Charlie Villanueva,Milwaukee Bucks,2008,23,14.9
+Desmond Mason,Milwaukee Bucks,2008,30,12.3
+Yi Jianlian,Milwaukee Bucks,2008,20,11.3
+Charlie Bell,Milwaukee Bucks,2008,28,10.9
+Bobby Simmons,Milwaukee Bucks,2008,27,10.3
+Royal Ivey,Milwaukee Bucks,2008,26,8.8
+Michael Ruffin,Milwaukee Bucks,2008,31,12.1
+Dan Gadzuric,Milwaukee Bucks,2008,29,10.7
+Ramon Sessions,Milwaukee Bucks,2008,21,16.2
+Jake Voskuhl,Milwaukee Bucks,2008,30,8.7
+Awvee Storey,Milwaukee Bucks,2008,30,11.5
+Kirk Hinrich,Chicago Bulls,2008,27,13.1
+Ben Gordon,Chicago Bulls,2008,24,16.4
+Luol Deng,Chicago Bulls,2008,22,17.0
+Andres Nocioni,Chicago Bulls,2008,28,13.6
+Ben Wallace,Chicago Bulls,2008,33,11.8
+Joakim Noah,Chicago Bulls,2008,22,15.5
+Chris Duhon,Chicago Bulls,2008,25,11.1
+Thabo Sefolosha,Chicago Bulls,2008,23,11.4
+Tyrus Thomas,Chicago Bulls,2008,21,14.6
+Joe Smith,Chicago Bulls,2008,32,16.8
+Larry Hughes,Chicago Bulls,2008,29,12.4
+Aaron Gray,Chicago Bulls,2008,23,13.9
+Drew Gooden,Chicago Bulls,2008,26,17.4
+Adrian Griffin,Chicago Bulls,2008,33,8.5
+Viktor Khryapa,Chicago Bulls,2008,25,9.7
+Thomas Gardner,Chicago Bulls,2008,22,4.4
+Demetris Nichols,Chicago Bulls,2008,23,7.0
+Shannon Brown,Chicago Bulls,2008,22,-11.8
+Cedric Simmons,Chicago Bulls,2008,22,-8.7
+Mike Dunleavy,Indiana Pacers,2008,27,17.3
+Danny Granger,Indiana Pacers,2008,24,16.7
+Troy Murphy,Indiana Pacers,2008,27,16.0
+Jeff Foster,Indiana Pacers,2008,31,15.7
+Marquis Daniels,Indiana Pacers,2008,27,11.6
+Kareem Rush,Indiana Pacers,2008,27,10.0
+Travis Diener,Indiana Pacers,2008,25,12.2
+Jamaal Tinsley,Indiana Pacers,2008,29,12.8
+Jermaine O'Neal,Indiana Pacers,2008,29,14.4
+Shawne Williams,Indiana Pacers,2008,21,12.8
+David Harrison,Indiana Pacers,2008,25,8.6
+Ronald Murray,Indiana Pacers,2008,28,13.1
+Andre Owens,Indiana Pacers,2008,27,10.0
+Ike Diogu,Indiana Pacers,2008,24,17.2
+Stephen Graham,Indiana Pacers,2008,25,21.9
+Courtney Sims,Indiana Pacers,2008,24,1.1
+LeBron James,Cleveland Cavaliers,2008,23,29.1
+Zydrunas Ilgauskas,Cleveland Cavaliers,2008,32,18.7
+Daniel Gibson,Cleveland Cavaliers,2008,21,11.7
+Devin Brown,Cleveland Cavaliers,2008,29,11.3
+Drew Gooden,Cleveland Cavaliers,2008,26,12.5
+Damon Jones,Cleveland Cavaliers,2008,31,11.3
+Anderson Varejao,Cleveland Cavaliers,2008,25,12.0
+Larry Hughes,Cleveland Cavaliers,2008,29,11.6
+Sasha Pavlovic,Cleveland Cavaliers,2008,24,7.2
+Delonte West,Cleveland Cavaliers,2008,24,14.1
+Ira Newble,Cleveland Cavaliers,2008,33,10.0
+Joe Smith,Cleveland Cavaliers,2008,32,14.9
+Ben Wallace,Cleveland Cavaliers,2008,33,12.4
+Wally Szczerbiak,Cleveland Cavaliers,2008,30,10.3
+Dwayne Jones,Cleveland Cavaliers,2008,24,11.1
+Eric Snow,Cleveland Cavaliers,2008,34,3.1
+Shannon Brown,Cleveland Cavaliers,2008,22,8.1
+Donyell Marshall,Cleveland Cavaliers,2008,34,8.4
+Cedric Simmons,Cleveland Cavaliers,2008,22,2.4
+Billy Thomas,Cleveland Cavaliers,2008,32,0.1
+Demetris Nichols,Cleveland Cavaliers,2008,23,-20.8
+Kaniel Dickens,Cleveland Cavaliers,2008,29,6.6
+Lance Allred,Cleveland Cavaliers,2008,26,-1.0
+Tayshaun Prince,Detroit Pistons,2008,27,15.6
+Chauncey Billups,Detroit Pistons,2008,31,23.6
+Richard Hamilton,Detroit Pistons,2008,29,18.2
+Rasheed Wallace,Detroit Pistons,2008,33,17.2
+Antonio McDyess,Detroit Pistons,2008,33,14.1
+Jason Maxiell,Detroit Pistons,2008,24,16.7
+Jarvis Hayes,Detroit Pistons,2008,26,13.0
+Rodney Stuckey,Detroit Pistons,2008,21,13.8
+Arron Afflalo,Detroit Pistons,2008,22,10.2
+Amir Johnson,Detroit Pistons,2008,20,17.5
+Ronald Murray,Detroit Pistons,2008,28,13.3
+Juan Dixon,Detroit Pistons,2008,29,12.4
+Nazr Mohammed,Detroit Pistons,2008,30,13.1
+Theo Ratliff,Detroit Pistons,2008,34,11.6
+Lindsey Hunter,Detroit Pistons,2008,37,8.8
+Walter Herrmann,Detroit Pistons,2008,28,14.0
+Primoz Brezec,Detroit Pistons,2008,28,10.8
+Cheikh Samb,Detroit Pistons,2008,23,12.0
+Ronald Dupree,Detroit Pistons,2008,27,0.0
+Jamal Crawford,New York Knicks,2008,27,16.0
+David Lee,New York Knicks,2008,24,18.0
+Zach Randolph,New York Knicks,2008,26,18.0
+Nate Robinson,New York Knicks,2008,23,15.3
+Quentin Richardson,New York Knicks,2008,27,8.5
+Fred Jones,New York Knicks,2008,28,10.9
+Eddy Curry,New York Knicks,2008,25,15.0
+Jared Jeffries,New York Knicks,2008,26,7.9
+Renaldo Balkman,New York Knicks,2008,23,11.5
+Stephon Marbury,New York Knicks,2008,30,13.8
+Wilson Chandler,New York Knicks,2008,20,11.7
+Mardy Collins,New York Knicks,2008,23,5.9
+Malik Rose,New York Knicks,2008,33,7.3
+Randolph Morris,New York Knicks,2008,22,4.3
+Jerome James,New York Knicks,2008,32,45.3
+Richard Jefferson,New Jersey Nets,2008,27,17.4
+Vince Carter,New Jersey Nets,2008,31,18.8
+Jason Kidd,New Jersey Nets,2008,34,15.7
+Josh Boone,New Jersey Nets,2008,23,14.8
+Bostjan Nachbar,New Jersey Nets,2008,27,12.4
+Sean Williams,New Jersey Nets,2008,21,13.9
+Antoine Wright,New Jersey Nets,2008,23,8.3
+Marcus Williams,New Jersey Nets,2008,22,11.0
+Devin Harris,New Jersey Nets,2008,24,16.7
+Nenad Krstic,New Jersey Nets,2008,24,8.5
+Malik Allen,New Jersey Nets,2008,29,10.1
+Jason Collins,New Jersey Nets,2008,29,2.0
+Darrell Armstrong,New Jersey Nets,2008,39,8.7
+DeSagana Diop,New Jersey Nets,2008,26,10.4
+Trenton Hassell,New Jersey Nets,2008,28,3.5
+Stromile Swift,New Jersey Nets,2008,28,12.7
+Jamaal Magloire,New Jersey Nets,2008,29,1.7
+Eddie Gill,New Jersey Nets,2008,29,11.9
+Maurice Ager,New Jersey Nets,2008,23,7.1
+Billy Thomas,New Jersey Nets,2008,32,-10.3
+Andre Iguodala,Philadelphia 76ers,2008,24,19.0
+Andre Miller,Philadelphia 76ers,2008,31,18.4
+Samuel Dalembert,Philadelphia 76ers,2008,26,15.6
+Willie Green,Philadelphia 76ers,2008,26,12.8
+Reggie Evans,Philadelphia 76ers,2008,27,11.0
+Lou Williams,Philadelphia 76ers,2008,21,16.7
+Thaddeus Young,Philadelphia 76ers,2008,19,16.5
+Jason Smith,Philadelphia 76ers,2008,21,10.7
+Rodney Carney,Philadelphia 76ers,2008,23,12.1
+Kyle Korver,Philadelphia 76ers,2008,26,10.5
+Kevin Ollie,Philadelphia 76ers,2008,35,9.7
+Calvin Booth,Philadelphia 76ers,2008,31,7.1
+Gordan Giricek,Philadelphia 76ers,2008,30,6.7
+Lou Amundson,Philadelphia 76ers,2008,25,7.4
+Shavlik Randolph,Philadelphia 76ers,2008,24,15.6
+Anthony Parker,Toronto Raptors,2008,32,14.4
+Jose Calderon,Toronto Raptors,2008,26,20.5
+Chris Bosh,Toronto Raptors,2008,23,23.8
+Jamario Moon,Toronto Raptors,2008,27,15.0
+Carlos Delfino,Toronto Raptors,2008,25,13.6
+Andrea Bargnani,Toronto Raptors,2008,22,10.6
+Jason Kapono,Toronto Raptors,2008,26,10.8
+Rasho Nesterovic,Toronto Raptors,2008,31,16.1
+T.J. Ford,Toronto Raptors,2008,24,20.3
+Kris Humphries,Toronto Raptors,2008,22,15.7
+Juan Dixon,Toronto Raptors,2008,29,10.7
+Joey Graham,Toronto Raptors,2008,25,10.3
+Darrick Martin,Toronto Raptors,2008,36,5.8
+Primoz Brezec,Toronto Raptors,2008,28,10.2
+Maceo Baston,Toronto Raptors,2008,32,17.6
+Jorge Garbajosa,Toronto Raptors,2008,30,10.4
+Linton Johnson,Toronto Raptors,2008,27,1.1
+Paul Pierce,Boston Celtics,2008,30,19.6
+Ray Allen,Boston Celtics,2008,32,16.4
+Kevin Garnett,Boston Celtics,2008,31,25.3
+Rajon Rondo,Boston Celtics,2008,21,15.6
+Kendrick Perkins,Boston Celtics,2008,23,13.3
+James Posey,Boston Celtics,2008,31,12.0
+Eddie House,Boston Celtics,2008,29,13.0
+Tony Allen,Boston Celtics,2008,26,10.7
+Glen Davis,Boston Celtics,2008,22,11.3
+Leon Powe,Boston Celtics,2008,24,20.9
+Brian Scalabrine,Boston Celtics,2008,29,5.1
+Sam Cassell,Boston Celtics,2008,38,11.0
+P.J. Brown,Boston Celtics,2008,38,10.2
+Scot Pollard,Boston Celtics,2008,32,8.7
+Gabe Pruitt,Boston Celtics,2008,21,8.3
+Chris Paul,New Orleans Hornets,2009,23,30.0
+David West,New Orleans Hornets,2009,28,18.9
+Rasual Butler,New Orleans Hornets,2009,29,11.8
+James Posey,New Orleans Hornets,2009,32,10.8
+Peja Stojakovic,New Orleans Hornets,2009,31,12.5
+Tyson Chandler,New Orleans Hornets,2009,26,13.4
+Hilton Armstrong,New Orleans Hornets,2009,24,10.7
+Devin Brown,New Orleans Hornets,2009,30,9.7
+Sean Marks,New Orleans Hornets,2009,33,8.8
+Julian Wright,New Orleans Hornets,2009,21,12.6
+Antonio Daniels,New Orleans Hornets,2009,33,12.6
+Morris Peterson,New Orleans Hornets,2009,31,10.7
+Melvin Ely,New Orleans Hornets,2009,30,6.0
+Ryan Bowen,New Orleans Hornets,2009,33,10.8
+Mike James,New Orleans Hornets,2009,33,5.8
+Dirk Nowitzki,Dallas Mavericks,2009,30,23.1
+Jason Kidd,Dallas Mavericks,2009,35,16.9
+Jason Terry,Dallas Mavericks,2009,31,19.3
+Erick Dampier,Dallas Mavericks,2009,33,15.7
+Josh Howard,Dallas Mavericks,2009,28,17.0
+J.J. Barea,Dallas Mavericks,2009,24,13.4
+Brandon Bass,Dallas Mavericks,2009,23,16.4
+Antoine Wright,Dallas Mavericks,2009,24,8.6
+James Singleton,Dallas Mavericks,2009,27,16.4
+Devean George,Dallas Mavericks,2009,31,7.0
+DeSagana Diop,Dallas Mavericks,2009,27,8.9
+Gerald Green,Dallas Mavericks,2009,23,11.4
+Ryan Hollins,Dallas Mavericks,2009,24,11.3
+Shawne Williams,Dallas Mavericks,2009,22,7.5
+Jerry Stackhouse,Dallas Mavericks,2009,34,3.4
+Matt Carroll,Dallas Mavericks,2009,28,0.5
+Yao Ming,Houston Rockets,2009,28,22.7
+Luis Scola,Houston Rockets,2009,28,17.0
+Metta World Peace,Houston Rockets,2009,29,15.6
+Shane Battier,Houston Rockets,2009,30,10.7
+Aaron Brooks,Houston Rockets,2009,24,12.9
+Rafer Alston,Houston Rockets,2009,32,12.8
+Carl Landry,Houston Rockets,2009,25,17.7
+Von Wafer,Houston Rockets,2009,23,14.7
+Tracy McGrady,Houston Rockets,2009,29,16.3
+Chuck Hayes,Houston Rockets,2009,25,7.8
+Brent Barry,Houston Rockets,2009,37,9.2
+Kyle Lowry,Houston Rockets,2009,22,15.0
+Luther Head,Houston Rockets,2009,26,9.8
+Dikembe Mutombo,Houston Rockets,2009,42,10.8
+Brian Cook,Houston Rockets,2009,28,7.4
+James White,Houston Rockets,2009,26,14.6
+Joey Dorsey,Houston Rockets,2009,25,16.1
+Tim Duncan,San Antonio Spurs,2009,32,24.4
+Roger Mason,San Antonio Spurs,2009,28,11.9
+Tony Parker,San Antonio Spurs,2009,26,23.4
+Michael Finley,San Antonio Spurs,2009,35,11.4
+Matt Bonner,San Antonio Spurs,2009,28,15.0
+Bruce Bowen,San Antonio Spurs,2009,37,5.4
+Kurt Thomas,San Antonio Spurs,2009,36,14.0
+George Hill,San Antonio Spurs,2009,22,11.6
+Manu Ginobili,San Antonio Spurs,2009,31,22.9
+Ime Udoka,San Antonio Spurs,2009,31,9.5
+Fabricio Oberto,San Antonio Spurs,2009,33,10.6
+Drew Gooden,San Antonio Spurs,2009,27,18.8
+Jacque Vaughn,San Antonio Spurs,2009,33,7.6
+Anthony Tolliver,San Antonio Spurs,2009,23,7.6
+Malik Hairston,San Antonio Spurs,2009,21,12.0
+Desmon Farmer,San Antonio Spurs,2009,27,0.4
+Austin Croshere,San Antonio Spurs,2009,33,4.3
+Pops Mensah-Bonsu,San Antonio Spurs,2009,25,35.8
+Blake Ahearn,San Antonio Spurs,2009,24,12.9
+Marcus Williams,San Antonio Spurs,2009,22,53.0
+Jason Thompson,Sacramento Kings,2009,22,13.9
+Beno Udrih,Sacramento Kings,2009,26,12.3
+Spencer Hawes,Sacramento Kings,2009,20,13.0
+John Salmons,Sacramento Kings,2009,29,16.0
+Francisco Garcia,Sacramento Kings,2009,27,14.1
+Kevin Martin,Sacramento Kings,2009,25,19.2
+Bobby Jackson,Sacramento Kings,2009,35,12.4
+Brad Miller,Sacramento Kings,2009,32,15.7
+Mikki Moore,Sacramento Kings,2009,33,8.6
+Donte Greene,Sacramento Kings,2009,20,5.2
+Andres Nocioni,Sacramento Kings,2009,29,13.6
+Bobby Brown,Sacramento Kings,2009,24,7.7
+Rashad McCants,Sacramento Kings,2009,24,17.2
+Shelden Williams,Sacramento Kings,2009,25,12.2
+Quincy Douby,Sacramento Kings,2009,24,8.0
+Will Solomon,Sacramento Kings,2009,30,12.6
+Ike Diogu,Sacramento Kings,2009,25,24.9
+Kenny Thomas,Sacramento Kings,2009,31,8.8
+Calvin Booth,Sacramento Kings,2009,32,10.9
+Drew Gooden,Sacramento Kings,2009,27,18.7
+Cedric Simmons,Sacramento Kings,2009,23,-8.3
+Eric Gordon,Los Angeles Clippers,2009,20,14.9
+Al Thornton,Los Angeles Clippers,2009,25,12.6
+Baron Davis,Los Angeles Clippers,2009,29,14.5
+Marcus Camby,Los Angeles Clippers,2009,34,18.7
+Fred Jones,Los Angeles Clippers,2009,29,10.4
+Zach Randolph,Los Angeles Clippers,2009,27,19.6
+Steve Novak,Los Angeles Clippers,2009,25,13.5
+Chris Kaman,Los Angeles Clippers,2009,26,14.4
+Brian Skinner,Los Angeles Clippers,2009,32,10.6
+Mardy Collins,Los Angeles Clippers,2009,24,9.9
+Ricky Davis,Los Angeles Clippers,2009,29,7.1
+DeAndre Jordan,Los Angeles Clippers,2009,20,14.1
+Mike Taylor,Los Angeles Clippers,2009,23,10.1
+Cuttino Mobley,Los Angeles Clippers,2009,33,10.3
+Paul Davis,Los Angeles Clippers,2009,24,10.7
+Jason Hart,Los Angeles Clippers,2009,30,6.1
+Tim Thomas,Los Angeles Clippers,2009,31,9.1
+Alex Acker,Los Angeles Clippers,2009,26,9.8
+Cheikh Samb,Los Angeles Clippers,2009,24,9.2
+Kelenna Azubuike,Golden State Warriors,2009,25,14.7
+Stephen Jackson,Golden State Warriors,2009,30,16.1
+Jamal Crawford,Golden State Warriors,2009,28,15.0
+C.J. Watson,Golden State Warriors,2009,24,14.2
+Andris Biedrins,Golden State Warriors,2009,22,19.1
+Ronny Turiaf,Golden State Warriors,2009,26,14.5
+Corey Maggette,Golden State Warriors,2009,29,16.9
+Anthony Morrow,Golden State Warriors,2009,23,14.7
+Anthony Randolph,Golden State Warriors,2009,19,16.9
+Monta Ellis,Golden State Warriors,2009,23,14.5
+Marco Belinelli,Golden State Warriors,2009,22,11.8
+Brandan Wright,Golden State Warriors,2009,21,18.7
+Rob Kurz,Golden State Warriors,2009,23,11.8
+DeMarcus Nelson,Golden State Warriors,2009,23,6.5
+Al Harrington,Golden State Warriors,2009,28,8.8
+Jermareo Davidson,Golden State Warriors,2009,24,12.3
+Marcus Williams,Golden State Warriors,2009,23,3.7
+Steve Nash,Phoenix Suns,2009,34,19.5
+Grant Hill,Phoenix Suns,2009,36,15.2
+Shaquille O'Neal,Phoenix Suns,2009,36,22.3
+Matt Barnes,Phoenix Suns,2009,28,12.6
+Amar'e Stoudemire,Phoenix Suns,2009,26,20.3
+Jason Richardson,Phoenix Suns,2009,28,16.9
+Leandro Barbosa,Phoenix Suns,2009,26,19.4
+Lou Amundson,Phoenix Suns,2009,26,13.3
+Jared Dudley,Phoenix Suns,2009,23,15.2
+Goran Dragic,Phoenix Suns,2009,22,9.8
+Raja Bell,Phoenix Suns,2009,32,8.5
+Robin Lopez,Phoenix Suns,2009,20,11.6
+Boris Diaw,Phoenix Suns,2009,26,12.5
+Alando Tucker,Phoenix Suns,2009,24,13.0
+Sean Singletary,Phoenix Suns,2009,23,8.5
+Stromile Swift,Phoenix Suns,2009,29,6.8
+Dee Brown,Phoenix Suns,2009,24,-2.9
+Courtney Sims,Phoenix Suns,2009,25,-26.0
+Pau Gasol,Los Angeles Lakers,2009,28,22.2
+Kobe Bryant,Los Angeles Lakers,2009,30,24.4
+Derek Fisher,Los Angeles Lakers,2009,34,12.1
+Lamar Odom,Los Angeles Lakers,2009,29,16.6
+Trevor Ariza,Los Angeles Lakers,2009,23,15.5
+Andrew Bynum,Los Angeles Lakers,2009,21,20.0
+Sasha Vujacic,Los Angeles Lakers,2009,24,12.6
+Jordan Farmar,Los Angeles Lakers,2009,22,9.9
+Luke Walton,Los Angeles Lakers,2009,28,11.3
+Vladimir Radmanovic,Los Angeles Lakers,2009,28,11.6
+Josh Powell,Los Angeles Lakers,2009,26,9.9
+Didier Ilunga-Mbenga,Los Angeles Lakers,2009,28,13.9
+Shannon Brown,Los Angeles Lakers,2009,23,15.0
+Chris Mihm,Los Angeles Lakers,2009,29,10.0
+Adam Morrison,Los Angeles Lakers,2009,24,2.9
+Sun Yue,Los Angeles Lakers,2009,23,-8.6
+Kevin Durant,Oklahoma City Thunder,2009,20,20.8
+Jeff Green,Oklahoma City Thunder,2009,22,13.9
+Russell Westbrook,Oklahoma City Thunder,2009,20,15.2
+Nick Collison,Oklahoma City Thunder,2009,28,14.8
+Earl Watson,Oklahoma City Thunder,2009,29,9.5
+Kyle Weaver,Oklahoma City Thunder,2009,22,10.2
+Nenad Krstic,Oklahoma City Thunder,2009,25,13.6
+Desmond Mason,Oklahoma City Thunder,2009,31,7.1
+Chris Wilcox,Oklahoma City Thunder,2009,26,13.4
+Thabo Sefolosha,Oklahoma City Thunder,2009,24,12.5
+Joe Smith,Oklahoma City Thunder,2009,33,13.2
+Damien Wilkins,Oklahoma City Thunder,2009,29,8.3
+Robert Swift,Oklahoma City Thunder,2009,23,11.5
+Johan Petro,Oklahoma City Thunder,2009,23,9.3
+Malik Rose,Oklahoma City Thunder,2009,34,9.0
+Chucky Atkins,Oklahoma City Thunder,2009,34,5.1
+Shaun Livingston,Oklahoma City Thunder,2009,23,13.5
+D.J. White,Oklahoma City Thunder,2009,22,19.8
+Mouhamed Sene,Oklahoma City Thunder,2009,22,33.2
+Steven Hill,Oklahoma City Thunder,2009,23,88.3
+Ryan Gomes,Minnesota Timberwolves,2009,26,12.5
+Randy Foye,Minnesota Timberwolves,2009,25,13.7
+Mike Miller,Minnesota Timberwolves,2009,28,13.8
+Sebastian Telfair,Minnesota Timberwolves,2009,23,10.8
+Kevin Love,Minnesota Timberwolves,2009,20,18.3
+Al Jefferson,Minnesota Timberwolves,2009,24,23.1
+Craig Smith,Minnesota Timberwolves,2009,25,16.9
+Rodney Carney,Minnesota Timberwolves,2009,24,12.1
+Brian Cardinal,Minnesota Timberwolves,2009,31,8.1
+Kevin Ollie,Minnesota Timberwolves,2009,36,9.9
+Rashad McCants,Minnesota Timberwolves,2009,24,9.9
+Jason Collins,Minnesota Timberwolves,2009,30,3.3
+Corey Brewer,Minnesota Timberwolves,2009,22,11.2
+Bobby Brown,Minnesota Timberwolves,2009,24,11.9
+Shelden Williams,Minnesota Timberwolves,2009,25,16.0
+Mark Madsen,Minnesota Timberwolves,2009,33,-0.1
+Calvin Booth,Minnesota Timberwolves,2009,32,39.8
+Ronnie Brewer,Utah Jazz,2009,23,16.1
+Deron Williams,Utah Jazz,2009,24,21.1
+Mehmet Okur,Utah Jazz,2009,29,17.5
+Paul Millsap,Utah Jazz,2009,23,18.6
+Kyle Korver,Utah Jazz,2009,27,12.1
+Andrei Kirilenko,Utah Jazz,2009,27,16.8
+C.J. Miles,Utah Jazz,2009,21,11.8
+Carlos Boozer,Utah Jazz,2009,27,17.2
+Brevin Knight,Utah Jazz,2009,33,9.5
+Ronnie Price,Utah Jazz,2009,25,8.5
+Matt Harpring,Utah Jazz,2009,32,12.3
+Kosta Koufos,Utah Jazz,2009,19,15.2
+Morris Almond,Utah Jazz,2009,23,7.3
+Jarron Collins,Utah Jazz,2009,30,5.8
+Kyrylo Fesenko,Utah Jazz,2009,22,13.0
+LaMarcus Aldridge,Portland Trail Blazers,2009,23,19.1
+Brandon Roy,Portland Trail Blazers,2009,24,24.0
+Travis Outlaw,Portland Trail Blazers,2009,24,15.1
+Steve Blake,Portland Trail Blazers,2009,28,14.4
+Rudy Fernandez,Portland Trail Blazers,2009,23,15.5
+Joel Przybilla,Portland Trail Blazers,2009,29,15.4
+Nicolas Batum,Portland Trail Blazers,2009,20,12.9
+Greg Oden,Portland Trail Blazers,2009,21,18.1
+Sergio Rodriguez,Portland Trail Blazers,2009,22,12.5
+Channing Frye,Portland Trail Blazers,2009,25,10.0
+Jerryd Bayless,Portland Trail Blazers,2009,20,8.2
+Ike Diogu,Portland Trail Blazers,2009,25,11.4
+Shavlik Randolph,Portland Trail Blazers,2009,25,19.4
+Michael Ruffin,Portland Trail Blazers,2009,32,10.3
+Martell Webster,Portland Trail Blazers,2009,22,-8.4
+Chauncey Billups,Denver Nuggets,2009,32,18.8
+Nene Hilario,Denver Nuggets,2009,26,18.8
+Carmelo Anthony,Denver Nuggets,2009,24,19.0
+J.R. Smith,Denver Nuggets,2009,23,16.8
+Kenyon Martin,Denver Nuggets,2009,31,13.6
+Linas Kleiza,Denver Nuggets,2009,24,13.2
+Anthony Carter,Denver Nuggets,2009,33,10.8
+Chris Andersen,Denver Nuggets,2009,30,18.1
+Dahntay Jones,Denver Nuggets,2009,28,9.0
+Renaldo Balkman,Denver Nuggets,2009,24,16.8
+Johan Petro,Denver Nuggets,2009,23,6.4
+Allen Iverson,Denver Nuggets,2009,33,15.2
+Chucky Atkins,Denver Nuggets,2009,34,8.9
+Sonny Weems,Denver Nuggets,2009,22,-3.9
+Jason Hart,Denver Nuggets,2009,30,9.8
+Cheikh Samb,Denver Nuggets,2009,24,2.9
+Juwan Howard,Denver Nuggets,2009,35,9.6
+Antawn Jamison,Washington Wizards,2009,32,20.6
+Caron Butler,Washington Wizards,2009,28,18.8
+Dominic McGuire,Washington Wizards,2009,23,10.8
+Nick Young,Washington Wizards,2009,23,13.1
+Andray Blatche,Washington Wizards,2009,22,15.0
+Mike James,Washington Wizards,2009,33,9.9
+Darius Songaila,Washington Wizards,2009,30,13.9
+JaVale McGee,Washington Wizards,2009,21,17.0
+Javaris Crittenton,Washington Wizards,2009,21,10.3
+DeShawn Stevenson,Washington Wizards,2009,27,6.9
+Juan Dixon,Washington Wizards,2009,30,9.3
+Etan Thomas,Washington Wizards,2009,30,10.1
+Antonio Daniels,Washington Wizards,2009,33,10.8
+Oleksiy Pecherov,Washington Wizards,2009,23,14.5
+Dee Brown,Washington Wizards,2009,24,7.8
+Brendan Haywood,Washington Wizards,2009,29,14.9
+Gilbert Arenas,Washington Wizards,2009,27,18.9
+Raymond Felton,Charlotte Bobcats,2009,24,13.7
+Emeka Okafor,Charlotte Bobcats,2009,26,18.0
+Gerald Wallace,Charlotte Bobcats,2009,26,18.6
+Boris Diaw,Charlotte Bobcats,2009,26,14.9
+D.J. Augustin,Charlotte Bobcats,2009,21,14.9
+Raja Bell,Charlotte Bobcats,2009,32,11.7
+Vladimir Radmanovic,Charlotte Bobcats,2009,28,10.2
+Adam Morrison,Charlotte Bobcats,2009,24,5.8
+DeSagana Diop,Charlotte Bobcats,2009,27,10.3
+Jason Richardson,Charlotte Bobcats,2009,28,15.8
+Matt Carroll,Charlotte Bobcats,2009,28,7.0
+Juwan Howard,Charlotte Bobcats,2009,35,10.9
+Jared Dudley,Charlotte Bobcats,2009,23,10.6
+Nazr Mohammed,Charlotte Bobcats,2009,31,7.7
+Shannon Brown,Charlotte Bobcats,2009,23,12.1
+Sean May,Charlotte Bobcats,2009,24,6.2
+Cartier Martin,Charlotte Bobcats,2009,24,9.2
+Ryan Hollins,Charlotte Bobcats,2009,24,15.3
+Alexis Ajinca,Charlotte Bobcats,2009,20,7.0
+Sean Singletary,Charlotte Bobcats,2009,23,5.5
+Dontell Jefferson,Charlotte Bobcats,2009,25,12.7
+Dwayne Jones,Charlotte Bobcats,2009,25,8.0
+Andre Brown,Charlotte Bobcats,2009,27,-1.5
+Linton Johnson,Charlotte Bobcats,2009,28,-1.5
+Dwyane Wade,Miami Heat,2009,27,30.4
+Mario Chalmers,Miami Heat,2009,22,13.3
+Udonis Haslem,Miami Heat,2009,28,13.1
+Michael Beasley,Miami Heat,2009,20,17.2
+Daequan Cook,Miami Heat,2009,21,10.3
+Shawn Marion,Miami Heat,2009,30,15.7
+Joel Anthony,Miami Heat,2009,26,9.3
+Chris Quinn,Miami Heat,2009,25,12.9
+Yakhouba Diawara,Miami Heat,2009,26,6.4
+Jermaine O'Neal,Miami Heat,2009,30,15.5
+Jamaal Magloire,Miami Heat,2009,30,10.6
+Jamario Moon,Miami Heat,2009,28,11.6
+James Jones,Miami Heat,2009,28,8.4
+Mark Blount,Miami Heat,2009,33,8.7
+Luther Head,Miami Heat,2009,26,10.2
+Marcus Banks,Miami Heat,2009,27,8.7
+Dorell Wright,Miami Heat,2009,23,3.7
+Shaun Livingston,Miami Heat,2009,23,5.4
+Joe Johnson,Atlanta Hawks,2009,27,18.2
+Mike Bibby,Atlanta Hawks,2009,30,16.3
+Josh Smith,Atlanta Hawks,2009,23,17.2
+Al Horford,Atlanta Hawks,2009,22,17.0
+Marvin Williams,Atlanta Hawks,2009,22,16.0
+Ronald Murray,Atlanta Hawks,2009,29,14.7
+Maurice Evans,Atlanta Hawks,2009,30,11.1
+Zaza Pachulia,Atlanta Hawks,2009,24,14.1
+Solomon Jones,Atlanta Hawks,2009,24,12.0
+Acie Law,Atlanta Hawks,2009,24,10.6
+Mario West,Atlanta Hawks,2009,24,10.0
+Thomas Gardner,Atlanta Hawks,2009,23,1.5
+Othello Hunter,Atlanta Hawks,2009,22,12.1
+Randolph Morris,Atlanta Hawks,2009,23,1.8
+Speedy Claxton,Atlanta Hawks,2009,30,5.7
+Rashard Lewis,Orlando Magic,2009,29,16.8
+Dwight Howard,Orlando Magic,2009,23,25.4
+Hedo Turkoglu,Orlando Magic,2009,29,14.8
+Courtney Lee,Orlando Magic,2009,23,10.7
+Anthony Johnson,Orlando Magic,2009,34,10.3
+Mickael Pietrus,Orlando Magic,2009,26,11.6
+Jameer Nelson,Orlando Magic,2009,26,20.6
+Tony Battie,Orlando Magic,2009,32,11.9
+J.J. Redick,Orlando Magic,2009,24,9.9
+Rafer Alston,Orlando Magic,2009,32,15.6
+Marcin Gortat,Orlando Magic,2009,24,17.0
+Keith Bogans,Orlando Magic,2009,28,8.0
+Brian Cook,Orlando Magic,2009,28,7.6
+Tyronn Lue,Orlando Magic,2009,31,9.4
+Jeremy Richardson,Orlando Magic,2009,24,2.8
+Adonal Foyle,Orlando Magic,2009,33,21.0
+Richard Jefferson,Milwaukee Bucks,2009,28,15.4
+Ramon Sessions,Milwaukee Bucks,2009,22,17.6
+Luc Mbah a Moute,Milwaukee Bucks,2009,22,12.3
+Charlie Villanueva,Milwaukee Bucks,2009,24,18.6
+Luke Ridnour,Milwaukee Bucks,2009,27,12.9
+Charlie Bell,Milwaukee Bucks,2009,29,9.8
+Michael Redd,Milwaukee Bucks,2009,29,17.9
+Andrew Bogut,Milwaukee Bucks,2009,24,16.2
+Francisco Elson,Milwaukee Bucks,2009,32,10.3
+Dan Gadzuric,Milwaukee Bucks,2009,30,12.2
+Joe Alexander,Milwaukee Bucks,2009,22,10.1
+Malik Allen,Milwaukee Bucks,2009,30,7.3
+Keith Bogans,Milwaukee Bucks,2009,28,12.5
+Tyronn Lue,Milwaukee Bucks,2009,31,10.6
+Damon Jones,Milwaukee Bucks,2009,32,6.2
+Austin Croshere,Milwaukee Bucks,2009,33,17.2
+Eddie Gill,Milwaukee Bucks,2009,30,15.5
+Jarrett Jack,Indiana Pacers,2009,25,13.1
+Troy Murphy,Indiana Pacers,2009,28,17.8
+Danny Granger,Indiana Pacers,2009,25,21.8
+T.J. Ford,Indiana Pacers,2009,25,16.6
+Jeff Foster,Indiana Pacers,2009,32,13.0
+Brandon Rush,Indiana Pacers,2009,23,9.0
+Marquis Daniels,Indiana Pacers,2009,28,12.8
+Rasho Nesterovic,Indiana Pacers,2009,32,14.1
+Roy Hibbert,Indiana Pacers,2009,22,16.1
+Travis Diener,Indiana Pacers,2009,26,13.7
+Stephen Graham,Indiana Pacers,2009,26,8.5
+Mike Dunleavy,Indiana Pacers,2009,28,14.4
+Josh McRoberts,Indiana Pacers,2009,21,12.5
+Maceo Baston,Indiana Pacers,2009,33,12.3
+Tayshaun Prince,Detroit Pistons,2009,28,15.0
+Rodney Stuckey,Detroit Pistons,2009,22,14.8
+Richard Hamilton,Detroit Pistons,2009,30,16.9
+Rasheed Wallace,Detroit Pistons,2009,34,14.9
+Allen Iverson,Detroit Pistons,2009,33,15.9
+Antonio McDyess,Detroit Pistons,2009,34,16.6
+Jason Maxiell,Detroit Pistons,2009,25,15.8
+Arron Afflalo,Detroit Pistons,2009,23,8.9
+Kwame Brown,Detroit Pistons,2009,26,11.5
+Amir Johnson,Detroit Pistons,2009,21,13.5
+Will Bynum,Detroit Pistons,2009,26,17.4
+Walter Herrmann,Detroit Pistons,2009,29,11.4
+Chauncey Billups,Detroit Pistons,2009,32,17.5
+Walter Sharpe,Detroit Pistons,2009,22,4.8
+Alex Acker,Detroit Pistons,2009,26,16.0
+Derrick Rose,Chicago Bulls,2009,20,16.0
+Ben Gordon,Chicago Bulls,2009,25,17.0
+Tyrus Thomas,Chicago Bulls,2009,22,15.9
+Joakim Noah,Chicago Bulls,2009,23,16.5
+Luol Deng,Chicago Bulls,2009,23,14.7
+Kirk Hinrich,Chicago Bulls,2009,28,13.9
+Andres Nocioni,Chicago Bulls,2009,29,11.4
+John Salmons,Chicago Bulls,2009,29,16.0
+Drew Gooden,Chicago Bulls,2009,27,15.3
+Larry Hughes,Chicago Bulls,2009,30,14.4
+Brad Miller,Chicago Bulls,2009,32,18.6
+Thabo Sefolosha,Chicago Bulls,2009,24,11.7
+Aaron Gray,Chicago Bulls,2009,24,11.5
+Lindsey Hunter,Chicago Bulls,2009,38,7.9
+Tim Thomas,Chicago Bulls,2009,31,11.5
+Cedric Simmons,Chicago Bulls,2009,23,18.0
+Linton Johnson,Chicago Bulls,2009,28,5.0
+Anthony Roberson,Chicago Bulls,2009,25,8.0
+Demetris Nichols,Chicago Bulls,2009,24,-3.5
+LeBron James,Cleveland Cavaliers,2009,24,31.7
+Mo Williams,Cleveland Cavaliers,2009,26,17.2
+Anderson Varejao,Cleveland Cavaliers,2009,26,14.6
+Delonte West,Cleveland Cavaliers,2009,25,14.1
+Daniel Gibson,Cleveland Cavaliers,2009,22,10.1
+Zydrunas Ilgauskas,Cleveland Cavaliers,2009,33,18.0
+Wally Szczerbiak,Cleveland Cavaliers,2009,31,12.1
+Ben Wallace,Cleveland Cavaliers,2009,34,12.2
+Sasha Pavlovic,Cleveland Cavaliers,2009,25,8.6
+J.J. Hickson,Cleveland Cavaliers,2009,20,12.5
+Darnell Jackson,Cleveland Cavaliers,2009,23,7.2
+Joe Smith,Cleveland Cavaliers,2009,33,14.8
+Tarence Kinsey,Cleveland Cavaliers,2009,24,11.0
+Lorenzen Wright,Cleveland Cavaliers,2009,33,4.0
+Jawad Williams,Cleveland Cavaliers,2009,25,14.1
+Trey Johnson,Cleveland Cavaliers,2009,24,-9.3
+Chris Duhon,New York Knicks,2009,26,12.2
+David Lee,New York Knicks,2009,25,19.0
+Wilson Chandler,New York Knicks,2009,21,12.9
+Al Harrington,New York Knicks,2009,28,16.4
+Nate Robinson,New York Knicks,2009,24,18.9
+Quentin Richardson,New York Knicks,2009,28,11.6
+Jared Jeffries,New York Knicks,2009,27,9.4
+Tim Thomas,New York Knicks,2009,31,13.4
+Larry Hughes,New York Knicks,2009,30,12.3
+Danilo Gallinari,New York Knicks,2009,20,13.4
+Jamal Crawford,New York Knicks,2009,28,15.7
+Zach Randolph,New York Knicks,2009,27,19.8
+Chris Wilcox,New York Knicks,2009,26,13.2
+Anthony Roberson,New York Knicks,2009,25,11.8
+Malik Rose,New York Knicks,2009,34,-1.9
+Mardy Collins,New York Knicks,2009,24,5.0
+Joe Crawford,New York Knicks,2009,22,10.8
+Eddy Curry,New York Knicks,2009,26,2.8
+Courtney Sims,New York Knicks,2009,25,19.8
+Jerome James,New York Knicks,2009,33,12.5
+Demetris Nichols,New York Knicks,2009,24,15.7
+Cheikh Samb,New York Knicks,2009,24,-12.6
+Mouhamed Sene,New York Knicks,2009,22,32.0
+Chris Bosh,Toronto Raptors,2009,24,22.1
+Anthony Parker,Toronto Raptors,2009,33,12.1
+Andrea Bargnani,Toronto Raptors,2009,23,14.6
+Jose Calderon,Toronto Raptors,2009,27,18.8
+Jason Kapono,Toronto Raptors,2009,27,8.9
+Joey Graham,Toronto Raptors,2009,26,11.9
+Jamario Moon,Toronto Raptors,2009,28,14.2
+Jermaine O'Neal,Toronto Raptors,2009,30,15.4
+Shawn Marion,Toronto Raptors,2009,30,16.4
+Roko Ukic,Toronto Raptors,2009,24,9.8
+Will Solomon,Toronto Raptors,2009,30,12.5
+Kris Humphries,Toronto Raptors,2009,23,16.3
+Pops Mensah-Bonsu,Toronto Raptors,2009,25,12.9
+Jake Voskuhl,Toronto Raptors,2009,31,0.4
+Patrick O'Bryant,Toronto Raptors,2009,22,13.5
+Quincy Douby,Toronto Raptors,2009,24,17.0
+Hassan Adams,Toronto Raptors,2009,24,0.4
+Marcus Banks,Toronto Raptors,2009,27,4.0
+Nathan Jawai,Toronto Raptors,2009,22,-7.6
+Vince Carter,New Jersey Nets,2009,32,19.3
+Brook Lopez,New Jersey Nets,2009,20,17.9
+Devin Harris,New Jersey Nets,2009,25,21.6
+Keyon Dooling,New Jersey Nets,2009,28,13.6
+Jarvis Hayes,New Jersey Nets,2009,27,10.8
+Bobby Simmons,New Jersey Nets,2009,28,12.0
+Yi Jianlian,New Jersey Nets,2009,21,10.9
+Ryan Anderson,New Jersey Nets,2009,20,13.6
+Trenton Hassell,New Jersey Nets,2009,29,7.2
+Josh Boone,New Jersey Nets,2009,24,13.3
+Chris Douglas-Roberts,New Jersey Nets,2009,22,12.2
+Sean Williams,New Jersey Nets,2009,22,8.8
+Eduardo Najera,New Jersey Nets,2009,32,7.7
+Maurice Ager,New Jersey Nets,2009,24,2.2
+Stromile Swift,New Jersey Nets,2009,29,6.6
+Andre Iguodala,Philadelphia 76ers,2009,25,18.4
+Andre Miller,Philadelphia 76ers,2009,32,18.6
+Thaddeus Young,Philadelphia 76ers,2009,20,15.3
+Samuel Dalembert,Philadelphia 76ers,2009,27,13.2
+Lou Williams,Philadelphia 76ers,2009,22,16.3
+Willie Green,Philadelphia 76ers,2009,27,11.1
+Marreese Speights,Philadelphia 76ers,2009,21,17.9
+Reggie Evans,Philadelphia 76ers,2009,28,10.4
+Elton Brand,Philadelphia 76ers,2009,29,14.6
+Royal Ivey,Philadelphia 76ers,2009,27,7.6
+Theo Ratliff,Philadelphia 76ers,2009,35,11.2
+Kareem Rush,Philadelphia 76ers,2009,28,6.3
+Donyell Marshall,Philadelphia 76ers,2009,35,18.9
+Paul Pierce,Boston Celtics,2009,31,17.7
+Ray Allen,Boston Celtics,2009,33,17.3
+Rajon Rondo,Boston Celtics,2009,22,18.8
+Kendrick Perkins,Boston Celtics,2009,24,13.2
+Kevin Garnett,Boston Celtics,2009,32,21.2
+Glen Davis,Boston Celtics,2009,23,10.7
+Eddie House,Boston Celtics,2009,30,15.4
+Leon Powe,Boston Celtics,2009,25,17.2
+Tony Allen,Boston Celtics,2009,27,12.9
+Brian Scalabrine,Boston Celtics,2009,30,7.4
+Mikki Moore,Boston Celtics,2009,33,9.3
+Stephon Marbury,Boston Celtics,2009,31,4.4
+Gabe Pruitt,Boston Celtics,2009,22,7.6
+Henry Walker,Boston Celtics,2009,21,10.9
+Patrick O'Bryant,Boston Celtics,2009,22,9.5
+J.R. Giddens,Boston Celtics,2009,23,26.0
+Rudy Gay,Memphis Grizzlies,2010,23,16.2
+O.J. Mayo,Memphis Grizzlies,2010,22,14.6
+Zach Randolph,Memphis Grizzlies,2010,28,21.2
+Mike Conley,Memphis Grizzlies,2010,22,13.9
+Marc Gasol,Memphis Grizzlies,2010,25,19.3
+Sam Young,Memphis Grizzlies,2010,24,13.0
+Hasheem Thabeet,Memphis Grizzlies,2010,22,12.9
+Marcus Williams,Memphis Grizzlies,2010,24,10.6
+DeMarre Carroll,Memphis Grizzlies,2010,23,8.5
+Jamaal Tinsley,Memphis Grizzlies,2010,31,7.8
+Darrell Arthur,Memphis Grizzlies,2010,21,10.5
+Hamed Haddadi,Memphis Grizzlies,2010,24,7.2
+Steven Hunter,Memphis Grizzlies,2010,28,11.6
+Ronnie Brewer,Memphis Grizzlies,2010,24,5.9
+Allen Iverson,Memphis Grizzlies,2010,34,16.9
+Lester Hudson,Memphis Grizzlies,2010,25,18.3
+Trey Gilder,Memphis Grizzlies,2010,25,30.9
+Aaron Brooks,Houston Rockets,2010,25,16.0
+Luis Scola,Houston Rockets,2010,29,17.2
+Trevor Ariza,Houston Rockets,2010,24,13.3
+Shane Battier,Houston Rockets,2010,31,11.1
+Chuck Hayes,Houston Rockets,2010,26,11.7
+Kyle Lowry,Houston Rockets,2010,23,15.5
+Chase Budinger,Houston Rockets,2010,21,14.1
+Carl Landry,Houston Rockets,2010,26,21.1
+David Andersen,Houston Rockets,2010,29,12.1
+Kevin Martin,Houston Rockets,2010,26,17.1
+Jordan Hill,Houston Rockets,2010,22,15.7
+Jared Jeffries,Houston Rockets,2010,28,10.1
+Jermaine Taylor,Houston Rockets,2010,23,11.4
+Garrett Temple,Houston Rockets,2010,23,8.6
+Mike Harris,Houston Rockets,2010,26,6.4
+Joey Dorsey,Houston Rockets,2010,26,11.5
+Tracy McGrady,Houston Rockets,2010,30,12.4
+Brian Cook,Houston Rockets,2010,29,2.4
+Hilton Armstrong,Houston Rockets,2010,25,1.1
+Will Conroy,Houston Rockets,2010,27,-2.4
+Pops Mensah-Bonsu,Houston Rockets,2010,26,15.2
+Richard Jefferson,San Antonio Spurs,2010,29,13.1
+Tim Duncan,San Antonio Spurs,2010,33,24.7
+George Hill,San Antonio Spurs,2010,23,14.7
+Manu Ginobili,San Antonio Spurs,2010,32,22.5
+Tony Parker,San Antonio Spurs,2010,27,16.4
+Antonio McDyess,San Antonio Spurs,2010,35,12.2
+Keith Bogans,San Antonio Spurs,2010,29,7.7
+Roger Mason,San Antonio Spurs,2010,29,9.7
+DeJuan Blair,San Antonio Spurs,2010,20,17.7
+Matt Bonner,San Antonio Spurs,2010,29,14.9
+Michael Finley,San Antonio Spurs,2010,36,6.5
+Malik Hairston,San Antonio Spurs,2010,22,11.6
+Garrett Temple,San Antonio Spurs,2010,23,11.1
+Theo Ratliff,San Antonio Spurs,2010,36,7.8
+Ian Mahinmi,San Antonio Spurs,2010,23,21.6
+Marcus Haislip,San Antonio Spurs,2010,29,15.4
+Cedric Jackson,San Antonio Spurs,2010,23,19.2
+Dirk Nowitzki,Dallas Mavericks,2010,31,22.9
+Jason Kidd,Dallas Mavericks,2010,36,17.2
+Jason Terry,Dallas Mavericks,2010,32,16.5
+Shawn Marion,Dallas Mavericks,2010,31,14.7
+J.J. Barea,Dallas Mavericks,2010,25,12.8
+Erick Dampier,Dallas Mavericks,2010,34,14.0
+Drew Gooden,Dallas Mavericks,2010,28,16.1
+Caron Butler,Dallas Mavericks,2010,29,14.2
+Josh Howard,Dallas Mavericks,2010,29,12.0
+Brendan Haywood,Dallas Mavericks,2010,30,16.1
+Rodrigue Beaubois,Dallas Mavericks,2010,21,18.5
+Eduardo Najera,Dallas Mavericks,2010,33,9.1
+Kris Humphries,Dallas Mavericks,2010,24,14.8
+Quinton Ross,Dallas Mavericks,2010,28,5.4
+Tim Thomas,Dallas Mavericks,2010,32,15.1
+DeShawn Stevenson,Dallas Mavericks,2010,28,3.2
+James Singleton,Dallas Mavericks,2010,28,10.2
+Matt Carroll,Dallas Mavericks,2010,29,7.1
+Tyreke Evans,Sacramento Kings,2010,20,18.2
+Beno Udrih,Sacramento Kings,2010,27,15.7
+Jason Thompson,Sacramento Kings,2010,23,14.6
+Omri Casspi,Sacramento Kings,2010,21,13.0
+Spencer Hawes,Sacramento Kings,2010,21,13.8
+Donte Greene,Sacramento Kings,2010,21,11.6
+Andres Nocioni,Sacramento Kings,2010,30,11.1
+Carl Landry,Sacramento Kings,2010,26,16.0
+Ime Udoka,Sacramento Kings,2010,32,9.6
+Kevin Martin,Sacramento Kings,2010,26,17.0
+Jon Brockman,Sacramento Kings,2010,22,12.4
+Francisco Garcia,Sacramento Kings,2010,28,12.4
+Sergio Rodriguez,Sacramento Kings,2010,23,16.9
+Sean May,Sacramento Kings,2010,25,11.7
+Kenny Thomas,Sacramento Kings,2010,32,9.0
+Dominic McGuire,Sacramento Kings,2010,24,2.4
+Desmond Mason,Sacramento Kings,2010,32,6.2
+Hilton Armstrong,Sacramento Kings,2010,25,8.4
+Joey Dorsey,Sacramento Kings,2010,26,7.9
+Garrett Temple,Sacramento Kings,2010,23,15.4
+Stephen Curry,Golden State Warriors,2010,21,16.3
+Monta Ellis,Golden State Warriors,2010,24,16.7
+Corey Maggette,Golden State Warriors,2010,30,20.3
+Anthony Morrow,Golden State Warriors,2010,24,14.0
+C.J. Watson,Golden State Warriors,2010,25,13.8
+Anthony Tolliver,Golden State Warriors,2010,24,13.7
+Ronny Turiaf,Golden State Warriors,2010,27,12.6
+Chris Hunter,Golden State Warriors,2010,25,12.2
+Reggie Williams,Golden State Warriors,2010,23,16.1
+Andris Biedrins,Golden State Warriors,2010,23,13.0
+Devean George,Golden State Warriors,2010,32,11.6
+Vladimir Radmanovic,Golden State Warriors,2010,29,7.9
+Anthony Randolph,Golden State Warriors,2010,20,18.7
+Mikki Moore,Golden State Warriors,2010,34,11.2
+Stephen Jackson,Golden State Warriors,2010,31,14.5
+Cartier Martin,Golden State Warriors,2010,25,7.3
+Kelenna Azubuike,Golden State Warriors,2010,26,19.8
+Coby Karl,Golden State Warriors,2010,26,7.1
+Acie Law,Golden State Warriors,2010,25,21.3
+Raja Bell,Golden State Warriors,2010,33,20.6
+Rasual Butler,Los Angeles Clippers,2010,30,10.7
+Chris Kaman,Los Angeles Clippers,2010,27,16.5
+Baron Davis,Los Angeles Clippers,2010,30,17.4
+Eric Gordon,Los Angeles Clippers,2010,21,14.1
+Marcus Camby,Los Angeles Clippers,2010,35,18.3
+Al Thornton,Los Angeles Clippers,2010,26,11.6
+Craig Smith,Los Angeles Clippers,2010,26,16.9
+DeAndre Jordan,Los Angeles Clippers,2010,21,12.7
+Steve Blake,Los Angeles Clippers,2010,29,12.3
+Drew Gooden,Los Angeles Clippers,2010,28,18.0
+Sebastian Telfair,Los Angeles Clippers,2010,24,9.8
+Travis Outlaw,Los Angeles Clippers,2010,25,12.6
+Ricky Davis,Los Angeles Clippers,2010,30,8.5
+Mardy Collins,Los Angeles Clippers,2010,25,5.7
+Steve Novak,Los Angeles Clippers,2010,26,8.3
+Bobby Brown,Los Angeles Clippers,2010,25,8.2
+Brian Skinner,Los Angeles Clippers,2010,33,5.5
+Kareem Rush,Los Angeles Clippers,2010,29,4.8
+JamesOn Curry,Los Angeles Clippers,2010,24,
+Amar'e Stoudemire,Phoenix Suns,2010,27,22.6
+Steve Nash,Phoenix Suns,2010,35,21.6
+Jason Richardson,Phoenix Suns,2010,29,16.6
+Grant Hill,Phoenix Suns,2010,37,14.0
+Channing Frye,Phoenix Suns,2010,26,15.0
+Jared Dudley,Phoenix Suns,2010,24,13.6
+Goran Dragic,Phoenix Suns,2010,23,14.8
+Lou Amundson,Phoenix Suns,2010,27,14.4
+Robin Lopez,Phoenix Suns,2010,21,17.6
+Leandro Barbosa,Phoenix Suns,2010,27,14.0
+Earl Clark,Phoenix Suns,2010,22,8.5
+Jarron Collins,Phoenix Suns,2010,31,3.7
+Alando Tucker,Phoenix Suns,2010,25,15.7
+Taylor Griffin,Phoenix Suns,2010,23,5.2
+Dwayne Jones,Phoenix Suns,2010,26,1.4
+Kobe Bryant,Los Angeles Lakers,2010,31,21.9
+Metta World Peace,Los Angeles Lakers,2010,30,12.1
+Lamar Odom,Los Angeles Lakers,2010,30,15.9
+Pau Gasol,Los Angeles Lakers,2010,29,22.9
+Derek Fisher,Los Angeles Lakers,2010,35,9.3
+Andrew Bynum,Los Angeles Lakers,2010,22,20.2
+Shannon Brown,Los Angeles Lakers,2010,24,12.4
+Jordan Farmar,Los Angeles Lakers,2010,23,12.3
+Josh Powell,Los Angeles Lakers,2010,27,6.7
+Sasha Vujacic,Los Angeles Lakers,2010,25,11.4
+Didier Ilunga-Mbenga,Los Angeles Lakers,2010,29,11.6
+Luke Walton,Los Angeles Lakers,2010,29,9.7
+Adam Morrison,Los Angeles Lakers,2010,25,7.4
+Corey Brewer,Minnesota Timberwolves,2010,23,12.1
+Al Jefferson,Minnesota Timberwolves,2010,25,19.0
+Jonny Flynn,Minnesota Timberwolves,2010,20,13.0
+Ryan Gomes,Minnesota Timberwolves,2010,27,12.1
+Ramon Sessions,Minnesota Timberwolves,2010,23,12.9
+Kevin Love,Minnesota Timberwolves,2010,21,20.7
+Damien Wilkins,Minnesota Timberwolves,2010,30,11.5
+Wayne Ellington,Minnesota Timberwolves,2010,22,9.6
+Ryan Hollins,Minnesota Timberwolves,2010,25,11.0
+Sasha Pavlovic,Minnesota Timberwolves,2010,26,5.4
+Darko Milicic,Minnesota Timberwolves,2010,24,12.9
+Oleksiy Pecherov,Minnesota Timberwolves,2010,24,12.0
+Nathan Jawai,Minnesota Timberwolves,2010,23,11.0
+Brian Cardinal,Minnesota Timberwolves,2010,32,6.9
+Alando Tucker,Minnesota Timberwolves,2010,25,6.9
+Jason Hart,Minnesota Timberwolves,2010,31,9.3
+Kevin Durant,Oklahoma City Thunder,2010,21,26.2
+Jeff Green,Oklahoma City Thunder,2010,23,13.8
+Russell Westbrook,Oklahoma City Thunder,2010,21,17.8
+Thabo Sefolosha,Oklahoma City Thunder,2010,25,9.8
+Nenad Krstic,Oklahoma City Thunder,2010,26,13.7
+James Harden,Oklahoma City Thunder,2010,20,14.0
+Nick Collison,Oklahoma City Thunder,2010,29,13.1
+Serge Ibaka,Oklahoma City Thunder,2010,20,15.2
+Eric Maynor,Oklahoma City Thunder,2010,22,11.6
+Etan Thomas,Oklahoma City Thunder,2010,31,6.9
+Kevin Ollie,Oklahoma City Thunder,2010,37,7.0
+Kyle Weaver,Oklahoma City Thunder,2010,23,10.7
+Shaun Livingston,Oklahoma City Thunder,2010,24,4.7
+D.J. White,Oklahoma City Thunder,2010,23,25.9
+Mike Wilks,Oklahoma City Thunder,2010,30,5.9
+Byron Mullens,Oklahoma City Thunder,2010,20,0.7
+Antonio Anderson,Oklahoma City Thunder,2010,24,-1.7
+Ryan Bowen,Oklahoma City Thunder,2010,34,31.3
+LaMarcus Aldridge,Portland Trail Blazers,2010,24,18.2
+Andre Miller,Portland Trail Blazers,2010,33,18.1
+Brandon Roy,Portland Trail Blazers,2010,25,21.3
+Martell Webster,Portland Trail Blazers,2010,23,12.5
+Juwan Howard,Portland Trail Blazers,2010,36,10.0
+Rudy Fernandez,Portland Trail Blazers,2010,24,13.1
+Steve Blake,Portland Trail Blazers,2010,29,11.2
+Jerryd Bayless,Portland Trail Blazers,2010,21,14.3
+Nicolas Batum,Portland Trail Blazers,2010,21,17.3
+Marcus Camby,Portland Trail Blazers,2010,35,17.0
+Dante Cunningham,Portland Trail Blazers,2010,22,14.3
+Joel Przybilla,Portland Trail Blazers,2010,30,11.2
+Greg Oden,Portland Trail Blazers,2010,22,23.1
+Jeff Ayres,Portland Trail Blazers,2010,22,12.1
+Travis Outlaw,Portland Trail Blazers,2010,25,14.8
+Patrick Mills,Portland Trail Blazers,2010,21,11.9
+Travis Diener,Portland Trail Blazers,2010,27,7.3
+Shavlik Randolph,Portland Trail Blazers,2010,26,16.5
+Anthony Tolliver,Portland Trail Blazers,2010,24,-11.5
+Deron Williams,Utah Jazz,2010,25,20.6
+Carlos Boozer,Utah Jazz,2010,28,21.3
+Paul Millsap,Utah Jazz,2010,24,16.7
+Mehmet Okur,Utah Jazz,2010,30,15.6
+Wesley Matthews,Utah Jazz,2010,23,12.3
+Andrei Kirilenko,Utah Jazz,2010,28,18.2
+Ronnie Brewer,Utah Jazz,2010,24,12.8
+C.J. Miles,Utah Jazz,2010,22,10.8
+Kyle Korver,Utah Jazz,2010,28,13.9
+Ronnie Price,Utah Jazz,2010,26,10.3
+Kyrylo Fesenko,Utah Jazz,2010,23,9.7
+Eric Maynor,Utah Jazz,2010,22,12.3
+Sundiata Gaines,Utah Jazz,2010,23,17.3
+Kosta Koufos,Utah Jazz,2010,20,7.7
+Othyus Jeffers,Utah Jazz,2010,24,13.6
+Nene Hilario,Denver Nuggets,2010,27,18.9
+Carmelo Anthony,Denver Nuggets,2010,25,22.2
+Chauncey Billups,Denver Nuggets,2010,33,20.2
+Arron Afflalo,Denver Nuggets,2010,24,10.9
+J.R. Smith,Denver Nuggets,2010,24,15.0
+Kenyon Martin,Denver Nuggets,2010,32,13.4
+Chris Andersen,Denver Nuggets,2010,31,15.8
+Ty Lawson,Denver Nuggets,2010,22,16.4
+Anthony Carter,Denver Nuggets,2010,34,10.3
+Joey Graham,Denver Nuggets,2010,27,10.6
+Malik Allen,Denver Nuggets,2010,31,5.9
+Johan Petro,Denver Nuggets,2010,24,10.7
+Renaldo Balkman,Denver Nuggets,2010,25,6.6
+Andray Blatche,Washington Wizards,2010,23,17.6
+Caron Butler,Washington Wizards,2010,29,13.5
+Mike Miller,Washington Wizards,2010,29,13.9
+Randy Foye,Washington Wizards,2010,26,13.2
+Brendan Haywood,Washington Wizards,2010,30,16.2
+Antawn Jamison,Washington Wizards,2010,33,17.5
+Nick Young,Washington Wizards,2010,24,10.7
+Gilbert Arenas,Washington Wizards,2010,28,18.7
+Earl Boykins,Washington Wizards,2010,33,12.9
+JaVale McGee,Washington Wizards,2010,22,17.0
+James Singleton,Washington Wizards,2010,28,11.8
+Al Thornton,Washington Wizards,2010,26,12.1
+Shaun Livingston,Washington Wizards,2010,24,14.4
+Fabricio Oberto,Washington Wizards,2010,34,5.7
+DeShawn Stevenson,Washington Wizards,2010,28,3.3
+Quinton Ross,Washington Wizards,2010,28,0.3
+Dominic McGuire,Washington Wizards,2010,24,4.2
+Alonzo Gee,Washington Wizards,2010,22,16.2
+Cartier Martin,Washington Wizards,2010,25,13.2
+Josh Howard,Washington Wizards,2010,29,19.2
+Mike James,Washington Wizards,2010,34,5.5
+Cedric Jackson,Washington Wizards,2010,23,-0.2
+Mike Harris,Washington Wizards,2010,26,11.9
+Paul Davis,Washington Wizards,2010,25,33.3
+Gerald Wallace,Charlotte Bobcats,2010,27,18.3
+Boris Diaw,Charlotte Bobcats,2010,27,12.8
+Stephen Jackson,Charlotte Bobcats,2010,31,15.7
+Raymond Felton,Charlotte Bobcats,2010,25,15.2
+D.J. Augustin,Charlotte Bobcats,2010,22,11.2
+Tyson Chandler,Charlotte Bobcats,2010,27,12.5
+Ronald Murray,Charlotte Bobcats,2010,30,11.4
+Nazr Mohammed,Charlotte Bobcats,2010,32,19.6
+Stephen Graham,Charlotte Bobcats,2010,27,11.2
+Theo Ratliff,Charlotte Bobcats,2010,36,11.0
+Tyrus Thomas,Charlotte Bobcats,2010,23,17.1
+Derrick Brown,Charlotte Bobcats,2010,22,12.6
+Gerald Henderson,Charlotte Bobcats,2010,22,9.7
+Larry Hughes,Charlotte Bobcats,2010,31,11.1
+DeSagana Diop,Charlotte Bobcats,2010,28,7.8
+Raja Bell,Charlotte Bobcats,2010,33,12.8
+Vladimir Radmanovic,Charlotte Bobcats,2010,29,8.0
+Acie Law,Charlotte Bobcats,2010,25,7.5
+Alexis Ajinca,Charlotte Bobcats,2010,21,6.3
+Dwyane Wade,Miami Heat,2010,28,28.0
+Michael Beasley,Miami Heat,2010,21,16.1
+Udonis Haslem,Miami Heat,2010,29,14.6
+Quentin Richardson,Miami Heat,2010,29,12.9
+Jermaine O'Neal,Miami Heat,2010,31,17.9
+Mario Chalmers,Miami Heat,2010,23,10.7
+Carlos Arroyo,Miami Heat,2010,30,12.3
+Dorell Wright,Miami Heat,2010,24,14.5
+Joel Anthony,Miami Heat,2010,27,10.2
+Daequan Cook,Miami Heat,2010,22,7.5
+Rafer Alston,Miami Heat,2010,33,7.7
+James Jones,Miami Heat,2010,29,8.8
+Jamaal Magloire,Miami Heat,2010,31,9.4
+Shavlik Randolph,Miami Heat,2010,26,4.9
+Yakhouba Diawara,Miami Heat,2010,27,-3.7
+Joe Johnson,Atlanta Hawks,2010,28,19.3
+Josh Smith,Atlanta Hawks,2010,24,21.0
+Al Horford,Atlanta Hawks,2010,23,19.4
+Marvin Williams,Atlanta Hawks,2010,23,13.0
+Jamal Crawford,Atlanta Hawks,2010,29,18.4
+Mike Bibby,Atlanta Hawks,2010,31,12.7
+Maurice Evans,Atlanta Hawks,2010,31,12.2
+Zaza Pachulia,Atlanta Hawks,2010,25,13.1
+Jeff Teague,Atlanta Hawks,2010,21,11.0
+Joe Smith,Atlanta Hawks,2010,34,11.2
+Mario West,Atlanta Hawks,2010,25,9.9
+Randolph Morris,Atlanta Hawks,2010,24,14.6
+Jason Collins,Atlanta Hawks,2010,31,0.9
+Othello Hunter,Atlanta Hawks,2010,23,7.9
+Dwight Howard,Orlando Magic,2010,24,24.0
+Rashard Lewis,Orlando Magic,2010,30,14.0
+Vince Carter,Orlando Magic,2010,33,17.1
+Matt Barnes,Orlando Magic,2010,29,13.6
+Jameer Nelson,Orlando Magic,2010,27,15.5
+J.J. Redick,Orlando Magic,2010,25,15.0
+Jason Williams,Orlando Magic,2010,34,12.9
+Mickael Pietrus,Orlando Magic,2010,27,11.9
+Marcin Gortat,Orlando Magic,2010,25,13.9
+Ryan Anderson,Orlando Magic,2010,21,18.1
+Brandon Bass,Orlando Magic,2010,24,16.5
+Anthony Johnson,Orlando Magic,2010,35,12.4
+Rodney Stuckey,Detroit Pistons,2010,23,15.6
+Jonas Jerebko,Detroit Pistons,2010,22,13.9
+Ben Wallace,Detroit Pistons,2010,35,15.8
+Charlie Villanueva,Detroit Pistons,2010,25,16.0
+Ben Gordon,Detroit Pistons,2010,26,14.0
+Will Bynum,Detroit Pistons,2010,27,13.8
+Tayshaun Prince,Detroit Pistons,2010,29,16.0
+Richard Hamilton,Detroit Pistons,2010,31,14.9
+Jason Maxiell,Detroit Pistons,2010,26,14.0
+Austin Daye,Detroit Pistons,2010,21,12.8
+Kwame Brown,Detroit Pistons,2010,27,7.9
+Chucky Atkins,Detroit Pistons,2010,35,8.3
+Chris Wilcox,Detroit Pistons,2010,27,12.0
+DaJuan Summers,Detroit Pistons,2010,22,7.5
+Brandon Rush,Indiana Pacers,2010,24,9.6
+Troy Murphy,Indiana Pacers,2010,29,18.0
+Earl Watson,Indiana Pacers,2010,30,10.9
+Danny Granger,Indiana Pacers,2010,26,19.8
+Roy Hibbert,Indiana Pacers,2010,23,16.2
+Dahntay Jones,Indiana Pacers,2010,29,10.8
+Mike Dunleavy,Indiana Pacers,2010,29,13.1
+T.J. Ford,Indiana Pacers,2010,26,13.4
+A.J. Price,Indiana Pacers,2010,23,14.0
+Luther Head,Indiana Pacers,2010,27,11.5
+Solomon Jones,Indiana Pacers,2010,25,9.9
+Josh McRoberts,Indiana Pacers,2010,22,14.8
+Tyler Hansbrough,Indiana Pacers,2010,24,14.6
+Jeff Foster,Indiana Pacers,2010,33,9.6
+Travis Diener,Indiana Pacers,2010,27,7.9
+Derrick Rose,Chicago Bulls,2010,21,18.6
+Luol Deng,Chicago Bulls,2010,24,16.1
+Kirk Hinrich,Chicago Bulls,2010,29,11.6
+Taj Gibson,Chicago Bulls,2010,24,13.8
+Brad Miller,Chicago Bulls,2010,33,12.9
+Joakim Noah,Chicago Bulls,2010,24,17.9
+John Salmons,Chicago Bulls,2010,30,12.7
+Jannero Pargo,Chicago Bulls,2010,30,8.9
+James Johnson,Chicago Bulls,2010,22,10.4
+Ronald Murray,Chicago Bulls,2010,30,12.1
+Tyrus Thomas,Chicago Bulls,2010,23,16.5
+Hakim Warrick,Chicago Bulls,2010,27,15.7
+Chris Richard,Chicago Bulls,2010,25,6.5
+Acie Law,Chicago Bulls,2010,25,15.4
+Lindsey Hunter,Chicago Bulls,2010,39,-2.2
+Devin Brown,Chicago Bulls,2010,31,0.4
+Aaron Gray,Chicago Bulls,2010,25,7.0
+Joe Alexander,Chicago Bulls,2010,23,2.8
+Brandon Jennings,Milwaukee Bucks,2010,20,14.5
+Carlos Delfino,Milwaukee Bucks,2010,27,12.9
+Andrew Bogut,Milwaukee Bucks,2010,25,20.7
+Ersan Ilyasova,Milwaukee Bucks,2010,22,15.7
+Luc Mbah a Moute,Milwaukee Bucks,2010,23,11.8
+Luke Ridnour,Milwaukee Bucks,2010,28,17.7
+Charlie Bell,Milwaukee Bucks,2010,30,7.9
+John Salmons,Milwaukee Bucks,2010,30,17.6
+Kurt Thomas,Milwaukee Bucks,2010,37,9.9
+Hakim Warrick,Milwaukee Bucks,2010,27,15.6
+Jerry Stackhouse,Milwaukee Bucks,2010,35,11.1
+Michael Redd,Milwaukee Bucks,2010,30,12.1
+Jodie Meeks,Milwaukee Bucks,2010,22,8.4
+Dan Gadzuric,Milwaukee Bucks,2010,31,10.5
+Roko Ukic,Milwaukee Bucks,2010,25,12.2
+Royal Ivey,Milwaukee Bucks,2010,28,6.8
+Francisco Elson,Milwaukee Bucks,2010,33,5.4
+Primoz Brezec,Milwaukee Bucks,2010,30,7.6
+Darnell Jackson,Milwaukee Bucks,2010,24,-6.3
+LeBron James,Cleveland Cavaliers,2010,25,31.1
+Mo Williams,Cleveland Cavaliers,2010,27,16.1
+Anthony Parker,Cleveland Cavaliers,2010,34,9.9
+Anderson Varejao,Cleveland Cavaliers,2010,27,15.8
+J.J. Hickson,Cleveland Cavaliers,2010,21,15.2
+Delonte West,Cleveland Cavaliers,2010,26,13.8
+Zydrunas Ilgauskas,Cleveland Cavaliers,2010,34,11.9
+Shaquille O'Neal,Cleveland Cavaliers,2010,37,17.9
+Daniel Gibson,Cleveland Cavaliers,2010,23,11.3
+Jamario Moon,Cleveland Cavaliers,2010,29,12.6
+Antawn Jamison,Cleveland Cavaliers,2010,33,16.7
+Jawad Williams,Cleveland Cavaliers,2010,26,8.2
+Leon Powe,Cleveland Cavaliers,2010,26,10.2
+Danny Green,Cleveland Cavaliers,2010,22,12.3
+Darnell Jackson,Cleveland Cavaliers,2010,24,0.4
+Sebastian Telfair,Cleveland Cavaliers,2010,24,14.0
+Cedric Jackson,Cleveland Cavaliers,2010,23,-6.6
+Coby Karl,Cleveland Cavaliers,2010,26,-38.1
+Brook Lopez,New Jersey Nets,2010,21,20.1
+Courtney Lee,New Jersey Nets,2010,24,12.8
+Devin Harris,New Jersey Nets,2010,26,16.2
+Terrence Williams,New Jersey Nets,2010,22,11.5
+Chris Douglas-Roberts,New Jersey Nets,2010,23,11.5
+Yi Jianlian,New Jersey Nets,2010,22,12.3
+Trenton Hassell,New Jersey Nets,2010,30,6.5
+Josh Boone,New Jersey Nets,2010,25,13.7
+Jarvis Hayes,New Jersey Nets,2010,28,9.7
+Keyon Dooling,New Jersey Nets,2010,29,11.6
+Kris Humphries,New Jersey Nets,2010,24,15.1
+Rafer Alston,New Jersey Nets,2010,33,8.7
+Bobby Simmons,New Jersey Nets,2010,29,8.0
+Sean Williams,New Jersey Nets,2010,23,7.0
+Chris Quinn,New Jersey Nets,2010,26,9.3
+Eduardo Najera,New Jersey Nets,2010,33,7.0
+Tony Battie,New Jersey Nets,2010,33,6.1
+Andre Iguodala,Philadelphia 76ers,2010,26,17.8
+Elton Brand,Philadelphia 76ers,2010,30,15.7
+Thaddeus Young,Philadelphia 76ers,2010,21,14.0
+Samuel Dalembert,Philadelphia 76ers,2010,28,16.8
+Lou Williams,Philadelphia 76ers,2010,23,18.2
+Jrue Holiday,Philadelphia 76ers,2010,19,12.3
+Willie Green,Philadelphia 76ers,2010,28,12.8
+Marreese Speights,Philadelphia 76ers,2010,22,17.6
+Jason Kapono,Philadelphia 76ers,2010,28,8.4
+Rodney Carney,Philadelphia 76ers,2010,25,12.7
+Allen Iverson,Philadelphia 76ers,2010,34,13.1
+Jason Smith,Philadelphia 76ers,2010,23,10.6
+Royal Ivey,Philadelphia 76ers,2010,28,12.6
+Jodie Meeks,Philadelphia 76ers,2010,22,15.8
+Primoz Brezec,Philadelphia 76ers,2010,30,0.4
+Francisco Elson,Philadelphia 76ers,2010,33,6.3
+David Lee,New York Knicks,2010,26,22.2
+Danilo Gallinari,New York Knicks,2010,21,14.8
+Wilson Chandler,New York Knicks,2010,22,13.7
+Al Harrington,New York Knicks,2010,29,16.8
+Chris Duhon,New York Knicks,2010,27,10.7
+Jared Jeffries,New York Knicks,2010,28,9.7
+Toney Douglas,New York Knicks,2010,23,14.9
+Larry Hughes,New York Knicks,2010,31,12.3
+Henry Walker,New York Knicks,2010,22,14.9
+Nate Robinson,New York Knicks,2010,25,17.6
+Tracy McGrady,New York Knicks,2010,30,12.2
+Sergio Rodriguez,New York Knicks,2010,23,12.8
+Eddie House,New York Knicks,2010,31,7.3
+Jonathan Bender,New York Knicks,2010,29,10.8
+Jordan Hill,New York Knicks,2010,22,14.0
+Earl Barron,New York Knicks,2010,28,14.7
+J.R. Giddens,New York Knicks,2010,24,10.5
+Marcus Landry,New York Knicks,2010,24,8.1
+Darko Milicic,New York Knicks,2010,24,12.1
+Eddy Curry,New York Knicks,2010,27,-1.9
+Andrea Bargnani,Toronto Raptors,2010,24,15.5
+Chris Bosh,Toronto Raptors,2010,25,25.0
+Hedo Turkoglu,Toronto Raptors,2010,30,13.3
+Jarrett Jack,Toronto Raptors,2010,26,16.3
+Jose Calderon,Toronto Raptors,2010,28,16.5
+DeMar DeRozan,Toronto Raptors,2010,20,12.5
+Amir Johnson,Toronto Raptors,2010,22,16.7
+Antoine Wright,Toronto Raptors,2010,25,8.6
+Sonny Weems,Toronto Raptors,2010,23,12.9
+Marco Belinelli,Toronto Raptors,2010,23,12.6
+Rasho Nesterovic,Toronto Raptors,2010,33,16.0
+Reggie Evans,Toronto Raptors,2010,29,11.4
+Marcus Banks,Toronto Raptors,2010,28,15.3
+Pops Mensah-Bonsu,Toronto Raptors,2010,26,11.0
+Patrick O'Bryant,Toronto Raptors,2010,23,9.9
+Rajon Rondo,Boston Celtics,2010,23,19.1
+Ray Allen,Boston Celtics,2010,34,15.2
+Paul Pierce,Boston Celtics,2010,32,18.2
+Kendrick Perkins,Boston Celtics,2010,25,15.0
+Kevin Garnett,Boston Celtics,2010,33,19.4
+Rasheed Wallace,Boston Celtics,2010,35,13.1
+Marquis Daniels,Boston Celtics,2010,29,9.6
+Glen Davis,Boston Celtics,2010,24,11.5
+Tony Allen,Boston Celtics,2010,28,14.2
+Eddie House,Boston Celtics,2010,31,11.9
+Shelden Williams,Boston Celtics,2010,26,14.1
+Brian Scalabrine,Boston Celtics,2010,31,3.6
+Nate Robinson,Boston Celtics,2010,25,13.9
+Michael Finley,Boston Celtics,2010,36,12.1
+J.R. Giddens,Boston Celtics,2010,24,7.3
+Lester Hudson,Boston Celtics,2010,25,8.7
+Henry Walker,Boston Celtics,2010,22,7.6
+Oliver Lafayette,Boston Celtics,2010,25,12.8
+Marcus Landry,Boston Celtics,2010,24,-26.8
 Mike Conley,Memphis Grizzlies,2011,23,15.9
 Zach Randolph,Memphis Grizzlies,2011,29,22.6
 Marc Gasol,Memphis Grizzlies,2011,26,16.8
@@ -408,6 +2893,16 @@ Stephen Curry,Golden State Warriors,2011,22,19.4
 Reggie Williams,Golden State Warriors,2011,24,14.9
 Andris Biedrins,Golden State Warriors,2011,24,12.1
 Vladimir Radmanovic,Golden State Warriors,2011,30,12.6
+Ekpe Udoh,Golden State Warriors,2011,23,9.7
+Lou Amundson,Golden State Warriors,2011,28,11.5
+Acie Law,Golden State Warriors,2011,26,11.3
+Rodney Carney,Golden State Warriors,2011,26,10.7
+Al Thornton,Golden State Warriors,2011,27,11.3
+Dan Gadzuric,Golden State Warriors,2011,32,10.2
+Jeremy Lin,Golden State Warriors,2011,22,14.8
+Jeff Adrien,Golden State Warriors,2011,24,11.3
+Brandan Wright,Golden State Warriors,2011,23,16.2
+Charlie Bell,Golden State Warriors,2011,31,4.7
 Channing Frye,Phoenix Suns,2011,27,12.8
 Steve Nash,Phoenix Suns,2011,36,20.8
 Grant Hill,Phoenix Suns,2011,38,14.7
@@ -2383,26 +4878,6 @@ Kyle Anderson,San Antonio Spurs,2015,21,8.2
 Austin Daye,San Antonio Spurs,2015,26,7.1
 Reggie Williams,San Antonio Spurs,2015,28,10.5
 JaMychal Green,San Antonio Spurs,2015,24,9.9
-James Harden,Houston Rockets,2015,25,26.7
-Trevor Ariza,Houston Rockets,2015,29,12.7
-Donatas Motiejunas,Houston Rockets,2015,24,14.4
-Patrick Beverley,Houston Rockets,2015,26,11.3
-Jason Terry,Houston Rockets,2015,37,11.4
-Corey Brewer,Houston Rockets,2015,28,14.0
-Josh Smith,Houston Rockets,2015,29,15.2
-Dwight Howard,Houston Rockets,2015,29,19.2
-Terrence Jones,Houston Rockets,2015,23,18.3
-Joey Dorsey,Houston Rockets,2015,31,11.1
-Kostas Papanikolaou,Houston Rockets,2015,24,7.8
-Pablo Prigioni,Houston Rockets,2015,37,11.4
-Tarik Black,Houston Rockets,2015,23,11.6
-Isaiah Canaan,Houston Rockets,2015,23,11.8
-Nick Johnson,Houston Rockets,2015,22,4.8
-Francisco Garcia,Houston Rockets,2015,33,3.6
-Troy Daniels,Houston Rockets,2015,23,4.5
-Clint Capela,Houston Rockets,2015,20,12.1
-Alexey Shved,Houston Rockets,2015,26,9.3
-K.J. McDaniels,Houston Rockets,2015,21,4.6
 Wesley Johnson,Los Angeles Lakers,2015,27,11.1
 Jeremy Lin,Los Angeles Lakers,2015,26,15.6
 Jordan Hill,Los Angeles Lakers,2015,27,16.2
@@ -3133,6 +5608,93 @@ Mitch McGary,Oklahoma City Thunder,2016,23,7.4
 Josh Huestis,Oklahoma City Thunder,2016,24,6.7
 Steve Novak,Oklahoma City Thunder,2016,32,20.8
 Nazr Mohammed,Oklahoma City Thunder,2016,38,6.0
+Evan Fournier,Orlando Magic,2016,23,14.6
+Victor Oladipo,Orlando Magic,2016,23,16.7
+Elfrid Payton,Orlando Magic,2016,21,13.9
+Nikola Vucevic,Orlando Magic,2016,25,21.1
+Aaron Gordon,Orlando Magic,2016,20,17.0
+Tobias Harris,Orlando Magic,2016,23,15.0
+Mario Hezonja,Orlando Magic,2016,20,9.4
+Jason Smith,Orlando Magic,2016,29,14.6
+Andrew Nicholson,Orlando Magic,2016,26,14.8
+Channing Frye,Orlando Magic,2016,32,11.8
+Dewayne Dedmon,Orlando Magic,2016,26,17.0
+C.J. Watson,Orlando Magic,2016,31,8.6
+Shabazz Napier,Orlando Magic,2016,24,9.6
+Brandon Jennings,Orlando Magic,2016,26,14.3
+Ersan Ilyasova,Orlando Magic,2016,28,14.7
+Devyn Marble,Orlando Magic,2016,23,5.2
+Keith Appling,Orlando Magic,2016,23,-4.8
+John Wall,Washington Wizards,2016,25,19.8
+Otto Porter,Washington Wizards,2016,22,14.5
+Marcin Gortat,Washington Wizards,2016,31,19.0
+Jared Dudley,Washington Wizards,2016,30,11.7
+Garrett Temple,Washington Wizards,2016,29,9.3
+Bradley Beal,Washington Wizards,2016,22,15.5
+Ramon Sessions,Washington Wizards,2016,29,15.9
+Nene Hilario,Washington Wizards,2016,33,16.8
+Gary Neal,Washington Wizards,2016,31,13.5
+Markieff Morris,Washington Wizards,2016,26,14.0
+Kelly Oubre,Washington Wizards,2016,20,8.2
+Kris Humphries,Washington Wizards,2016,30,11.8
+Drew Gooden,Washington Wizards,2016,34,7.5
+Marcus Thornton,Washington Wizards,2016,28,15.5
+DeJuan Blair,Washington Wizards,2016,26,5.4
+Alan Anderson,Washington Wizards,2016,33,9.2
+Jarell Eddie,Washington Wizards,2016,24,11.0
+J.J. Hickson,Washington Wizards,2016,27,18.9
+Ryan Hollins,Washington Wizards,2016,31,7.2
+Kemba Walker,Charlotte Hornets,2016,25,20.8
+Nicolas Batum,Charlotte Hornets,2016,27,15.6
+Marvin Williams,Charlotte Hornets,2016,29,16.8
+Jeremy Lin,Charlotte Hornets,2016,27,13.8
+Cody Zeller,Charlotte Hornets,2016,23,16.1
+Frank Kaminsky,Charlotte Hornets,2016,22,12.5
+Jeremy Lamb,Charlotte Hornets,2016,23,15.9
+Al Jefferson,Charlotte Hornets,2016,31,18.2
+Spencer Hawes,Charlotte Hornets,2016,27,12.4
+P.J. Hairston,Charlotte Hornets,2016,23,7.4
+Courtney Lee,Charlotte Hornets,2016,30,11.2
+Troy Daniels,Charlotte Hornets,2016,24,14.9
+Tyler Hansbrough,Charlotte Hornets,2016,30,12.5
+Brian Roberts,Charlotte Hornets,2016,30,13.9
+Michael Kidd-Gilchrist,Charlotte Hornets,2016,22,16.9
+Aaron Harrison,Charlotte Hornets,2016,21,4.3
+Jorge Gutierrez,Charlotte Hornets,2016,27,19.1
+Paul George,Indiana Pacers,2016,25,20.9
+Monta Ellis,Indiana Pacers,2016,30,13.7
+George Hill,Indiana Pacers,2016,29,13.2
+Ian Mahinmi,Indiana Pacers,2016,29,16.6
+Lavoy Allen,Indiana Pacers,2016,26,12.4
+Jordan Hill,Indiana Pacers,2016,28,16.4
+C.J. Miles,Indiana Pacers,2016,28,14.0
+Myles Turner,Indiana Pacers,2016,19,15.4
+Rodney Stuckey,Indiana Pacers,2016,29,12.6
+Solomon Hill,Indiana Pacers,2016,24,12.2
+Chase Budinger,Indiana Pacers,2016,27,11.1
+Glenn Robinson,Indiana Pacers,2016,22,11.4
+Joe Young,Indiana Pacers,2016,23,9.9
+Ty Lawson,Indiana Pacers,2016,28,13.7
+Shayne Whittington,Indiana Pacers,2016,24,7.4
+Rakeem Christmas,Indiana Pacers,2016,24,32.0
+LeBron James,Cleveland Cavaliers,2016,31,27.5
+Kevin Love,Cleveland Cavaliers,2016,27,19.0
+J.R. Smith,Cleveland Cavaliers,2016,30,12.4
+Tristan Thompson,Cleveland Cavaliers,2016,24,15.9
+Matthew Dellavedova,Cleveland Cavaliers,2016,25,11.3
+Kyrie Irving,Cleveland Cavaliers,2016,23,19.9
+Timofey Mozgov,Cleveland Cavaliers,2016,29,14.6
+Richard Jefferson,Cleveland Cavaliers,2016,35,9.7
+Iman Shumpert,Cleveland Cavaliers,2016,25,8.4
+Mo Williams,Cleveland Cavaliers,2016,33,12.4
+James Jones,Cleveland Cavaliers,2016,35,11.6
+Channing Frye,Cleveland Cavaliers,2016,32,14.9
+Jared Cunningham,Cleveland Cavaliers,2016,24,5.9
+Anderson Varejao,Cleveland Cavaliers,2016,33,11.2
+Jordan McRae,Cleveland Cavaliers,2016,24,14.2
+Sasha Kaun,Cleveland Cavaliers,2016,30,12.5
+Dahntay Jones,Cleveland Cavaliers,2016,35,10.3
+Joe Harris,Cleveland Cavaliers,2016,24,3.4
 Hollis Thompson,Philadelphia 76ers,2016,24,9.2
 Jerami Grant,Philadelphia 76ers,2016,21,12.6
 Isaiah Canaan,Philadelphia 76ers,2016,24,11.1

@@ -52,7 +52,7 @@ class nbaref(scrapy.Spider):
     # starting point URL for spider. start_requests is the method called to open the spider for scraping
     # callback passes instance to the next thing.
     def start_requests(self):
-        years = ['2016','2015','2014','2013','2012','2011']
+        years = ['2016','2015','2014','2013','2012','2011','2010','2009','2008','2007','2006']
         base_url = 'http://www.basketball-reference.com/leagues/NBA_{}.html'
         urls = [base_url.format(x) for x in years]
         for url in urls:
@@ -105,8 +105,14 @@ class nbaref(scrapy.Spider):
                 games_started = i.find_element_by_xpath('.//td[@data-stat="gs"]').text
                 points = i.find_element_by_xpath('.//td[@data-stat="pts"]').text
                 field_goals = i.find_element_by_xpath('.//td[@data-stat="fg"]').text
+                field_goal_attempts = i.find_element_by_xpath('.//td[@data-stat="fga"]').text
+                field_goal_pct = i.find_element_by_xpath('.//td[@data-stat="fg_pct"]').text
+                field_goal_3pct = i.find_element_by_xpath('.//td[@data-stat="fg3_pct"]').text
+                steals = i.find_element_by_xpath('.//td[@data-stat="stl"]').text
                 # create a tuple for each player, append to list
-                playertotals = (player_name, team, season, minutes_played, games_played, games_started, points, field_goals, wins, losses)
+                playertotals = (player_name, team, season, minutes_played, games_played, 
+                                games_started, points, field_goals, wins, losses, field_goal_attempts, 
+                                field_goal_pct, field_goal_3pct, steals)
                 player_list.append(playertotals)
             except:
                 continue
@@ -138,11 +144,12 @@ class nbaref(scrapy.Spider):
         try:
             games = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="g"]').text
             tm3pct =  self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="fg3_pct"]').text
-            tmfgallow = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="fga"]').text
+            tmfgpct = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="fg_pct"]').text
+            tmfgattempt = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="fga"]').text
             opp3pct = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="opp_fg3_pct"]').text
             oppfgpct = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="opp_fg_pct"]').text
-            oppfgall = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="opp_fga"]').text
-            teamstats = (team, games, season, tm3pct, tmfgallow, opp3pct, oppfgpct, oppfgall)
+            oppfgattempt = self.driver.find_element_by_xpath('//table[@id="team_and_opponent"]//tbody//tr//td[@data-stat="opp_fga"]').text
+            teamstats = (team, season, games, tm3pct, tmfgpct, tmfgattempt, opp3pct, oppfgpct, oppfgattempt)
             team_list.append(teamstats)
         except:
             pass
